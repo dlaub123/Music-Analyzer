@@ -80,14 +80,19 @@ class MusicScrubberApp:
         log_frame = tk.LabelFrame(self.root, text=" Processing Log ")
         log_frame.pack(fill="both", expand=True, padx=15, pady=10)
         
-        # Create a scrollbar widget attached to the frame
+        # 1. Create the scrollbar widget inside the frame
         scrollbar = tk.Scrollbar(log_frame)
+        
+        # 2. Pack the scrollbar first, filling the vertical Y axis on the right side
         scrollbar.pack(side="right", fill="y")
         
+        # 3. Pack the log box next, filling the remaining space on the left
         self.log_box = tk.Text(log_frame, wrap="word", height=14, bg="#1e1e1e", fg="#ffffff", font=("Consolas", 10), yscrollcommand=scrollbar.set)
-        self.log_box.pack(fill="both", expand=True, padx=5, pady=5)
+        self.log_box.pack(side="left", fill="both", expand=True, padx=5, pady=5)
+        
+        # 4. Tie them together dynamically
         scrollbar.config(command=self.log_box.yview)
-
+ 
         # Setup custom color tags for text formatting
         self.log_box.tag_config('album_header', foreground='#61AFEF', font=('Consolas', 10, 'bold')) # Blue
         self.log_box.tag_config('change_alert', foreground='#E06C75', font=('Consolas', 10, 'bold')) # Red
