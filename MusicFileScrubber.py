@@ -1,220 +1,231 @@
 import os
-
-#import tkinter as tk
-#from tkinter import filedialog, messagebox, ttk
-
+import sys
 import tkinter as tk
-from tkinter import ttk
 from tkinter import messagebox, filedialog
-
-ttk.BooleanVar = tk.BooleanVar
-ttk.StringVar = tk.StringVar
-
+import unicodedata
+from mutagen.flac import FLAC
 from mutagen.easyid3 import EasyID3
 from mutagen.mp3 import MP3
-from mutagen.flac import FLAC
-from mutagen.oggvorbis import OggVorbis
+
+def clean_text(text):
+    """Removes accents/umlauts and flattens special characters to root values (e.g., ü -> u)"""
+    if not text:
+        return ""
+    normalized = unicodedata.normalize('NFD', text)
+    return "".join([c for c in normalized if unicodedata.category(c) != 'Mn'])
+
+def safe_open_path(path):
+    """Bypasses Windows 260-character path limit (MAX_PATH)"""
+    abs_path = os.path.abspath(path)
+    if os.name == 'nt' and not abs_path.startswith('\\\\?\\'):
+        return '\\\\?\\' + abs_path
+    return abs_path
 
 class MusicScrubberApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Audio Metadata & File Scrubber")
-        self.root.geometry("650x500")
-        self.root.minsize(550, 400)
-
-        # Variables
+        self.root.title("Music File Scrubber")
+        self.root.geometry("750x650")
+        
+        # Track State Variables
         self.selected_folder = tk.StringVar()
-        self.safe_mode = tk.BooleanVar(value=True)  # Safe Mode defaults to ON
+        self.safe_mode = tk.BooleanVar(value=True)
         
-        # Metadata Toggles
-        self.clean_title = tk.BooleanVar(value=False)
-        self.clean_artist = tk.BooleanVar(value=False)
-        self.clean_album = tk.BooleanVar(value=False)
-        self.clean_genre = tk.BooleanVar(value=False)
+        # Section 2: Targeted Metadata Cleaning Options
+        self.clean_garbage_tags = tk.BooleanVar(value=True)
+        self.flatten_metadata_accents = tk.BooleanVar(value=False)
         
-        # Filename Toggles
-        self.replace_spaces = tk.BooleanVar(value=False)
-        self.lowercase_names = tk.BooleanVar(value=False)
-        self.remove_special = tk.BooleanVar(value=False)
-
+        # Section 3: Filename Cleaning Options
+        self.clean_filename_accents = tk.BooleanVar(value=False)
+        self.replace_spaces_with_underscores = tk.BooleanVar(value=False)
+        
         self.setup_ui()
 
     def setup_ui(self):
-        # --- Folder Selection ---
+        # 1. Folder Selection Frame
         folder_frame = tk.LabelFrame(self.root, text=" 1. Select Music Folder ", padx=10, pady=10)
         folder_frame.pack(fill="x", padx=15, pady=10)
+        
+        tk.Entry(folder_frame, textvariable=self.selected_folder, width=60).pack(side="left", padx=5, expand=True, fill="x")
+        tk.Button(folder_frame, text="Browse...", command=self.browse_folder).pack(side="left", padx=5)
 
-        tk.Entry(folder_frame, textvariable=self.selected_folder, width=50).pack(side="left", expand=True, fill="x", padx=(0, 10))
-        tk.Button(folder_frame, text="Browse...", command=self.browse_folder).pack(side="right")
-
-        # --- Options Frame ---
+        # Main Options Splitter
         options_frame = tk.Frame(self.root)
         options_frame.pack(fill="both", expand=True, padx=15, pady=5)
 
-        # Metadata Options
-        meta_frame = tk.LabelFrame(options_frame, text=" 2. Metadata Scrubbing (Wipe Fields) ", padx=10, pady=10)
-        meta_frame.pack(side="left", fill="both", expand=True, padx=(0, 5))
+        # 2. Metadata Cleaning Frame
+        meta_frame = tk.LabelFrame(options_frame, text=" 2. Metadata Optimization ", padx=10, pady=10)
+        meta_frame.pack(fill="x", pady=5)
         
-        tk.Checkbutton(meta_frame, text="Wipe Title", variable=self.clean_title).pack(anchor="w", pady=2)
-        tk.Checkbutton(meta_frame, text="Wipe Artist", variable=self.clean_artist).pack(anchor="w", pady=2)
-        tk.Checkbutton(meta_frame, text="Wipe Album", variable=self.clean_album).pack(anchor="w", pady=2)
-        tk.Checkbutton(meta_frame, text="Wipe Genre/Others", variable=self.clean_genre).pack(anchor="w", pady=2)
+        tk.Checkbutton(meta_frame, text="Scrub hidden tracking, encoder signatures, & comments", variable=self.clean_garbage_tags).pack(anchor="w", pady=2)
+        tk.Checkbutton(meta_frame, text="Flatten special characters/umlauts inside tags", variable=self.flatten_metadata_accents).pack(anchor="w", pady=2)
 
-        # Filename Options
+        # 3. Filename Cleaning Frame
         file_frame = tk.LabelFrame(options_frame, text=" 3. Filename Cleaning ", padx=10, pady=10)
-        file_frame.pack(side="right", fill="both", expand=True, padx=(5, 0))
-
-        tk.Checkbutton(file_frame, text="Replace Spaces with Under_scores", variable=self.replace_spaces).pack(anchor="w", pady=2)
-        tk.Checkbutton(file_frame, text="Convert to lowercase", variable=self.lowercase_names).pack(anchor="w", pady=2)
-        tk.Checkbutton(file_frame, text="Remove Special Characters", variable=self.remove_special).pack(anchor="w", pady=2)
-
-        # --- Execution & Mode Controls ---
-        control_frame = tk.LabelFrame(self.root, text=" 4. Mode & Execution ", padx=10, pady=10)
-        control_frame.pack(fill="x", padx=15, pady=15)
-
-        # Safe Mode Toggle Configuration
-        safe_mode_cb = tk.Checkbutton(
-            control_frame, 
-            text="SAFE MODE (Simulation Only - No files will be modified)", 
-            variable=self.safe_mode,
-            font=("Arial", 10, "bold"),
-            fg="darkgreen"
-        )
-        safe_mode_cb.pack(anchor="w", pady=5)
+        file_frame.pack(fill="x", pady=10)
         
-        # Visual indicator listener for safe mode
-        self.safe_mode.trace_add("write", self.update_mode_style)
-        self.safe_mode_label = tk.Label(control_frame, text="Status: Ready to simulate.", fg="green")
-        self.safe_mode_label.pack(anchor="w", pady=(0, 5))
+        tk.Checkbutton(file_frame, text="Flatten special characters/umlauts in filenames", variable=self.clean_filename_accents).pack(anchor="w", pady=2)
+        tk.Checkbutton(file_frame, text="Replace spaces with Underscores", variable=self.replace_spaces_with_underscores).pack(anchor="w", pady=2)
 
-        # Run Button
+        # Bottom Control Frame
+        control_frame = tk.Frame(self.root)
+        control_frame.pack(fill="x", padx=15, pady=5)
+        
+        tk.Checkbutton(control_frame, text="Safe Mode (Simulate without changing files)", variable=self.safe_mode, fg="darkgreen", font=("Arial", 10, "bold")).pack(side="left", pady=5)
+        
         self.run_btn = tk.Button(control_frame, text="RUN SCRUBBER", bg="#4CAF50", fg="white", font=("Arial", 11, "bold"), padx=5, pady=5, command=self.process_files)
-        self.run_btn.pack(fill="x", pady=5)
+        self.run_btn.pack(side="right", pady=5)
+
+        # Console Output Box with Added Scrollbar
+        log_frame = tk.LabelFrame(self.root, text=" Processing Log ")
+        log_frame.pack(fill="both", expand=True, padx=15, pady=10)
+        
+        # Create a scrollbar widget attached to the frame
+        scrollbar = tk.Scrollbar(log_frame)
+        scrollbar.pack(side="right", fill="y")
+        
+        self.log_box = tk.Text(log_frame, wrap="word", height=14, bg="#1e1e1e", fg="#ffffff", font=("Consolas", 10), yscrollcommand=scrollbar.set)
+        self.log_box.pack(fill="both", expand=True, padx=5, pady=5)
+        scrollbar.config(command=self.log_box.yview)
+
+        # Setup custom color tags for text formatting
+        self.log_box.tag_config('album_header', foreground='#61AFEF', font=('Consolas', 10, 'bold')) # Blue
+        self.log_box.tag_config('change_alert', foreground='#E06C75', font=('Consolas', 10, 'bold')) # Red
+        self.log_box.tag_config('safe_header', foreground='#98C379', font=('Consolas', 10, 'bold')) # Dark Green
+        self.log_box.tag_config('file_line', foreground='#ABB2BF') # Subdued gray
 
     def browse_folder(self):
         folder = filedialog.askdirectory()
         if folder:
             self.selected_folder.set(folder)
 
-    def update_mode_style(self, *args):
-        if self.safe_mode.get():
-            self.safe_mode_label.config(text="Status: Ready to simulate.", fg="green")
-            self.run_btn.config(text="RUN SIMULATION (SAFE MODE)", bg="#4CAF50")
+    def log_message(self, message, tag=None):
+        if tag:
+            self.log_box.insert(tk.END, message + "\n", tag)
         else:
-            self.safe_mode_label.config(text="WARNING: Live mode selected. Changes will be permanent!", fg="red")
-            self.run_btn.config(text="COMMIT ACTUAL CHANGES", bg="#d32f2f")
-
-    def clean_filename(self, filename):
-        name, ext = os.path.splitext(filename)
-        
-        if self.replace_spaces.get():
-            name = name.replace(" ", "_")
-        if self.lowercase_names.get():
-            name = name.lower()
-        if self.remove_special.get():
-            # Keeps alphanumeric characters, underscores, and hyphens
-            name = "".join(c for c in name if c.isalnum() or c in ('_', '-'))
-            
-        return f"{name}{ext}"
-
-    def scrub_metadata(self, file_path):
-        # Supported extensions by mutagen handlers used here
-        ext = os.path.splitext(file_path)[1].lower()
-        try:
-            if ext == '.mp3':
-                try:
-                    audio = EasyID3(file_path)
-                except Exception:
-                    # If no ID3 tag exists, create one
-                    audio = MP3(file_path, ID3=EasyID3)
-                    audio.add_tags()
-            elif ext == '.flac':
-                audio = FLAC(file_path)
-            elif ext in ['.ogg', '.oga']:
-                audio = OggVorbis(file_path)
-            else:
-                return False # Unsupported format
-            
-            # Wipe tags if checkboxes are checked
-            if self.clean_title.get() and 'title' in audio: del audio['title']
-            if self.clean_artist.get() and 'artist' in audio: del audio['artist']
-            if self.clean_album.get() and 'album' in audio: del audio['album']
-            if self.clean_genre.get():
-                for tag in ['genre', 'date', 'tracknumber', 'comment']:
-                    if tag in audio: del audio[tag]
-            
-            if not self.safe_mode.get():
-                audio.save()
-            return True
-        except Exception as e:
-            print(f"Error processing metadata for {file_path}: {e}")
-            return False
+            self.log_box.insert(tk.END, message + "\n")
+        self.log_box.see(tk.END)
+        self.root.update_idletasks()
 
     def process_files(self):
-        dir_path = self.selected_folder.get()
-        if not dir_path or not os.path.isdir(dir_path):
-            messagebox.showerror("Error", "Please select a valid directory first.")
+        target_dir = self.selected_folder.get()
+        if not target_dir or not os.path.exists(target_dir):
+            messagebox.showerror("Error", "Please select a valid folder first.")
             return
 
+        self.log_box.delete("1.0", tk.END)
         is_safe = self.safe_mode.get()
-        log_report = []
-        files_processed = 0
+        
+        if is_safe:
+            self.log_message("=== RUNNING IN SAFE MODE (No changes will be saved) ===\n", 'safe_header')
+        else:
+            self.log_message("=== LIVE RUN STARTED ===\n", 'change_alert')
 
-        # Supported audio formats
-        valid_extensions = ('.mp3', '.flac', '.ogg', '.oga')
+        do_garbage_scrub = self.clean_garbage_tags.get()
+        do_meta_flatten = self.flatten_metadata_accents.get()
+        do_file_flatten = self.clean_filename_accents.get()
+        do_underscores = self.replace_spaces_with_underscores.get()
 
-        for root_dir, _, files in os.walk(dir_path):
+        last_album_dir = None
+
+        for root_dir, _, files in os.walk(target_dir):
+            # Check if we have audio files in this directory before printing a header
+            has_audio = any(f.lower().endswith(('.mp3', '.flac', '.m4a', '.ogg', '.wma')) for f in files)
+            
+            if has_audio and root_dir != last_album_dir:
+                # Print a clean layout breaking line separating the new album track path
+                self.log_message(f"\n📁 ALBUM DIRECTORY: {root_dir}", 'album_header')
+                self.log_message("-" * len(f"📁 ALBUM DIRECTORY: {root_dir}"), 'album_header')
+                last_album_dir = root_dir
+
             for file in files:
-                if file.lower().endswith(valid_extensions):
-                    files_processed += 1
-                    current_path = os.path.join(root_dir, file)
+                if not file.lower().endswith(('.mp3', '.flac', '.m4a', '.ogg', '.wma')):
+                    continue
+                
+                original_file_path = os.path.join(root_dir, file)
+                safe_path = safe_open_path(original_file_path)
+                self.log_message(f"  📄 Track: {file}", 'file_line')
+
+                # --- METADATA SCRUBBING ---
+                try:
+                    modified_tags = False
+                    log_entries = []
                     
-                    # 1. Metadata updates
-                    meta_status = self.scrub_metadata(current_path)
-                    
-                    # 2. Filename updates
-                    new_name = self.clean_filename(file)
-                    new_path = os.path.join(root_dir, new_name)
-                    
-                    rename_happened = False
-                    if new_name != file:
-                        rename_happened = True
-                        if not is_safe:
-                            os.rename(current_path, new_path)
-                    
-                    # Log the actions
-                    action_desc = f"File: {file}\n"
-                    if meta_status:
-                        action_desc += "   - Metadata Wiped (matching settings)\n"
-                    if rename_happened:
-                        action_desc += f"   - Renamed to: {new_name}\n"
-                    if not meta_status and not rename_happened:
-                        action_desc += "   - No changes required.\n"
+                    if file.lower().endswith('.flac') and (do_garbage_scrub or do_meta_flatten):
+                        audio = FLAC(safe_path)
                         
-                    log_report.append(action_desc)
+                        if do_garbage_scrub:
+                            for junk_tag in ['comment', 'encoder', 'vendor', 'description', 'copyright']:
+                                if junk_tag in audio:
+                                    del audio[junk_tag]
+                                    modified_tags = True
+                                    log_entries.append(f"     [Meta] Removed tracking tag: {junk_tag}")
+                                    
+                        if do_meta_flatten:
+                            for tag in list(audio.keys()):
+                                original_vals = list(audio[tag])
+                                cleaned_vals = [clean_text(val) for val in original_vals]
+                                if cleaned_vals != original_vals:
+                                    audio[tag] = cleaned_vals
+                                    modified_tags = True
+                                    log_entries.append(f"     [Meta Tag '{tag}'] Flat conversion: '{''.join(original_vals)}' -> '{''.join(cleaned_vals)}'")
+                                
+                        if modified_tags:
+                            for entry in log_entries:
+                                self.log_message(entry, 'change_alert')
+                            if not is_safe:
+                                audio.save()
 
-        if files_processed == 0:
-            messagebox.showinfo("Done", "No compatible music files found (.mp3, .flac, .ogg).")
-            return
+                    elif file.lower().endswith('.mp3') and (do_garbage_scrub or do_meta_flatten):
+                        audio = EasyID3(safe_path)
+                        
+                        if do_garbage_scrub:
+                            for junk_tag in ['comment', 'encodedby', 'website', 'copyright']:
+                                if junk_tag in audio:
+                                    del audio[junk_tag]
+                                    modified_tags = True
+                                    log_entries.append(f"     [Meta] Removed tracking tag: {junk_tag}")
+                                    
+                        if do_meta_flatten:
+                            for tag in list(audio.keys()):
+                                original_vals = list(audio[tag])
+                                cleaned_vals = [clean_text(val) for val in original_vals]
+                                if cleaned_vals != original_vals:
+                                    audio[tag] = cleaned_vals
+                                    modified_tags = True
+                                    log_entries.append(f"     [Meta Tag '{tag}'] Flat conversion: '{''.join(original_vals)}' -> '{''.join(cleaned_vals)}'")
+                                
+                        if modified_tags:
+                            for entry in log_entries:
+                                self.log_message(entry, 'change_alert')
+                            if not is_safe:
+                                audio.save()
 
-        # Show results window
-        report_window = tk.Toplevel(self.root)
-        report_window.title("Simulation Report" if is_safe else "Execution Report")
-        report_window.geometry("500x400")
-        
-        title_text = f"--- {'SIMULATION ONLY' if is_safe else 'ACTUAL CHANGES COMMITTED'} ---"
-        tk.Label(report_window, text=title_text, font=("Arial", 12, "bold"), fg="blue" if is_safe else "red").pack(pady=10)
-        
-        text_area = tk.Text(report_window, wrap="word")
-        scroll = tk.Scrollbar(report_window, command=text_area.yview)
-        text_area.configure(yscrollcommand=scroll.set)
-        
-        scroll.pack(side="right", fill="y")
-        text_area.pack(side="left", fill="both", expand=True, padx=10, pady=10)
-        
-        text_area.insert("end", f"Total music files analyzed: {files_processed}\n\n")
-        text_area.insert("end", "\n".join(log_report))
-        text_area.configure(state="disabled") # Make read-only
+                except Exception as e:
+                    self.log_message(f"     ❌ Metadata Error: {e}", 'change_alert')
+
+                # --- FILENAME CLEANING WITH VISIBLE TRANSFORMS ---
+                new_name = file
+                if do_file_flatten:
+                    new_name = clean_text(new_name)
+                if do_underscores:
+                    new_name = new_name.replace(" ", "_")
+
+                if new_name != file:
+                    self.log_message(f"     [Rename Target] Cleaned name layout:", 'change_alert')
+                    self.log_message(f"     ↳ Before: {file}", 'change_alert')
+                    self.log_message(f"     ↳ After:  {new_name}", 'change_alert')
+                    
+                    if not is_safe:
+                        new_file_path = os.path.join(root_dir, new_name)
+                        safe_new_path = safe_open_path(new_file_path)
+                        try:
+                            os.rename(safe_path, safe_new_path)
+                        except Exception as e:
+                            self.log_message(f"     ❌ Rename Error: {e}", 'change_alert')
+
+        self.log_message("\n=== Processing Complete! ===")
+        messagebox.showinfo("Finished", "Scrubber run completed successfully.")
 
 if __name__ == "__main__":
     root = tk.Tk()
