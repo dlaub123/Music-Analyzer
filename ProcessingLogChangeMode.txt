@@ -1,0 +1,1335 @@
+=== LIVE RUN STARTED ===
+
+
+📁 ALBUM DIRECTORY: D:/CSO Resound\CSO Resound - Bates, Anthology of Fantastic Zoology
+-------------------------------------------------------------------------------------
+  📄 Track: 1. Anthology of Fantastic Zoology Forest Twilight.mp3
+  📄 Track: 10. Anthology of Fantastic Zoology The Zaratan.mp3
+  📄 Track: 11. Anthology of Fantastic Zoology Madrugada.mp3
+  📄 Track: 2. Anthology of Fantastic Zoology Sprite.mp3
+  📄 Track: 3. Anthology of Fantastic Zoology Dusk.mp3
+  📄 Track: 4. Anthology of Fantastic Zoology The A Bao A Qu.mp3
+  📄 Track: 5. Anthology of Fantastic Zoology Nymphs.mp3
+  📄 Track: 6. Anthology of Fantastic Zoology Night.mp3
+  📄 Track: 7. Anthology of Fantastic Zoology The Gryphon.mp3
+  📄 Track: 8. Anthology of Fantastic Zoology Midnight.mp3
+  📄 Track: 9. Anthology of Fantastic Zoology Sirens.mp3
+
+📁 ALBUM DIRECTORY: D:/CSO Resound\CSO Resound - Contemporary American Composers (MP3)
+-------------------------------------------------------------------------------------
+  📄 Track: 1. Hymn for Everyone.mp3
+     [Meta] Removed tracking tag: encodedby
+  📄 Track: 2. Three Lisel Mueller Settings The Story.mp3
+     [Meta] Removed tracking tag: encodedby
+  📄 Track: 3. Three Lisel Mueller Settings An Unanswered Question.mp3
+     [Meta] Removed tracking tag: encodedby
+  📄 Track: 4. Three Lisel Mueller Settings Hope.mp3
+     [Meta] Removed tracking tag: encodedby
+  📄 Track: 5. Symphony No. 11 Movement I.mp3
+     [Meta] Removed tracking tag: encodedby
+  📄 Track: 6. Symphony No. 11 Movement II.mp3
+     [Meta] Removed tracking tag: encodedby
+  📄 Track: 7. Symphony No. 11 Movement III.mp3
+     [Meta] Removed tracking tag: encodedby
+
+📁 ALBUM DIRECTORY: D:/CSO Resound\CSO Resound - Mascagni, Cavalleria rusticana (FLAC 24b96k)
+--------------------------------------------------------------------------------------------
+  📄 Track: 01 - Prelude.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 03 - Prelude (continued).flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 16 - Intermezzo.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 18 -  Viva il vino spumeggiante.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 19 -  A voi tutti salute!.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 20 -  Mamma, quel vino è generoso.flac
+     [Meta] Removed tracking tag: comment
+     [Meta Tag 'title'] Flat conversion: '-  Mamma, quel vino è generoso' -> '-  Mamma, quel vino e generoso'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 20 -  Mamma, quel vino è generoso.flac
+     ↳ After:  20 -  Mamma, quel vino e generoso.flac
+  📄 Track: 02 - Siciliana  O Lola ch'ai di latti la cammisa.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 04 -  Ah! Gli aranci olezzano sui verdi margini.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 05 -  Dite, mamma Lucia.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 06 -  Il cavallo scalpita.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 07 -  Beato voi, Compar Alfio.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 08 -  Regina coeli.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 09 -  Inneggiamo, il Signor non è morto.flac
+     [Meta] Removed tracking tag: comment
+     [Meta Tag 'title'] Flat conversion: '-  Inneggiamo, il Signor non è morto' -> '-  Inneggiamo, il Signor non e morto'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 09 -  Inneggiamo, il Signor non è morto.flac
+     ↳ After:  09 -  Inneggiamo, il Signor non e morto.flac
+  📄 Track: 10 -  Voi lo sapete, o mamma.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 11 -  Tu qui, Santuzza.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 12 -  Fior di giaggiolo.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 13 -  Ah! lo vedi, che hai tu detto.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 14 -  No, no, Turiddu.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 15 -  Oh! Il Signore vi manda.flac
+     [Meta] Removed tracking tag: comment
+  📄 Track: 17 -  A casa, a casa, amici.flac
+     [Meta] Removed tracking tag: comment
+
+📁 ALBUM DIRECTORY: D:/HDtracks\Berliner Philharmoniker, Herbert von Karajan\Respighi  The Fountains Of Rome, P  106; The Pines Of Rome, P  141; Ancient Airs And Dances - Suite III [96kHz · 24bit]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  📄 Track: 01 - Respighi  Fountains Of Rome, P  106 - 1  The Valle Giulia .flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns' -> 'Gunter Hermanns'
+  📄 Track: 02 - Respighi  Fountains Of Rome, P  106 - 2  The Triton Fou.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns' -> 'Gunter Hermanns'
+  📄 Track: 03 - Respighi  Fountains Of Rome, P  106 - 3  The Trev.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns' -> 'Gunter Hermanns'
+  📄 Track: 04 - Respighi  Fountains Of Rome, P  106 - 4  The Villa Medic.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns' -> 'Gunter Hermanns'
+  📄 Track: 05 - Respighi  Pines Of Rome, P  141 - 1  The Pin.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns' -> 'Gunter Hermanns'
+  📄 Track: 06 - Respighi  Pines Of Rome, P  141 - 2  The P.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns' -> 'Gunter Hermanns'
+  📄 Track: 07 - Respighi  Pines Of Rome, P  141 - 3  The Pi.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns' -> 'Gunter Hermanns'
+  📄 Track: 08 - Respighi  Pines Of Rome, P  141 - 4  The Pin.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns' -> 'Gunter Hermanns'
+  📄 Track: 09 - Respighi  Antiche danze ed arie per liuto, Suite III, P  172 - 1 .flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns' -> 'Gunter Hermanns'
+  📄 Track: 10 - Respighi  Antiche danze ed arie per liuto, Suite III, P  172 - 2  Arie di corte  Andante cantabile-Allegretto-Vivace-Lento con grande espressione-Allegro vivace-Vivacis- si.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns' -> 'Gunter Hermanns'
+  📄 Track: 11 - Respighi  Antiche danze ed arie per liuto, Suite No  3, P  172 - 3  .flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns' -> 'Gunter Hermanns'
+  📄 Track: 12 - Respighi  Antiche danze ed arie per liuto, Suite III, P  172 - 4  Passacagli.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns' -> 'Gunter Hermanns'
+  📄 Track: 13 - Boccherini  Quintettino Op 30 No 6, G 3.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns, Volker Martin' -> 'Gunter Hermanns, Volker Martin'
+  📄 Track: 14 - Boccherini  Quintettino Op 30 No 6,.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns, Volker Martin' -> 'Gunter Hermanns, Volker Martin'
+  📄 Track: 15 - Boccherini  Quintettino Op 30 No 6, G 324 - 3  Largo assai, se.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns, Volker Martin' -> 'Gunter Hermanns, Volker Martin'
+  📄 Track: 16 - Boccherini  Quintettino Op 30 No 6, G.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns, Volker Martin' -> 'Gunter Hermanns, Volker Martin'
+  📄 Track: 17 - Boccherini  Quintettino Op 30 No 6,.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns, Volker Martin' -> 'Gunter Hermanns, Volker Martin'
+  📄 Track: 18 - Giazotto  Adagio For Strings .flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'Günter Hermanns, Volker Martin' -> 'Gunter Hermanns, Volker Martin'
+
+📁 ALBUM DIRECTORY: D:/HDtracks\Eiji Oue\Stravinsky_ The Song Of The Nightingale, The Firebird, Rite of Spring
+-------------------------------------------------------------------------------------------------------------
+  📄 Track: 01-The Firebird Suite, 1919 Revision.flac
+  📄 Track: 02-The Song of the Nightingale.flac
+  📄 Track: 03-The Rite of Spring.flac
+
+📁 ALBUM DIRECTORY: D:/HDtracks\Jiri Belohlavek, Czech Philharmonic\Janáček  Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child [96kHz · 24bit]
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+  📄 Track: 01 - Janáček  Glagolitic Mass, JW 3 9 - 1  Uvod.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Glagolitic Mass, JW 3/9 - 1. Uvod' -> 'Janacek: Glagolitic Mass, JW 3/9 - 1. Uvod'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 01 - Janáček  Glagolitic Mass, JW 3 9 - 1  Uvod.flac
+     ↳ After:  01 - Janacek  Glagolitic Mass, JW 3 9 - 1  Uvod.flac
+  📄 Track: 02 - Janáček  Glagolitic Mass, JW 3 9 - 2  Gospodi pomiluji.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Glagolitic Mass, JW 3/9 - 2. Gospodi pomiluji' -> 'Janacek: Glagolitic Mass, JW 3/9 - 2. Gospodi pomiluji'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 02 - Janáček  Glagolitic Mass, JW 3 9 - 2  Gospodi pomiluji.flac
+     ↳ After:  02 - Janacek  Glagolitic Mass, JW 3 9 - 2  Gospodi pomiluji.flac
+  📄 Track: 03 - Janáček  Glagolitic Mass, JW 3 9 - 3  Slava.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'artist'] Flat conversion: 'Hibla Gerzmava, Stuart Neill, Prague Philharmonic Choir, Aleš Bárta, Czech Philharmonic, Jiri Belohlavek' -> 'Hibla Gerzmava, Stuart Neill, Prague Philharmonic Choir, Ales Barta, Czech Philharmonic, Jiri Belohlavek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Glagolitic Mass, JW 3/9 - 3. Slava' -> 'Janacek: Glagolitic Mass, JW 3/9 - 3. Slava'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 03 - Janáček  Glagolitic Mass, JW 3 9 - 3  Slava.flac
+     ↳ After:  03 - Janacek  Glagolitic Mass, JW 3 9 - 3  Slava.flac
+  📄 Track: 04 - Janáček  Glagolitic Mass, JW 3 9 - 4  Veruju.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'artist'] Flat conversion: 'Stuart Neill, Jan Martiník, Prague Philharmonic Choir, Aleš Bárta, Czech Philharmonic, Jiri Belohlavek' -> 'Stuart Neill, Jan Martinik, Prague Philharmonic Choir, Ales Barta, Czech Philharmonic, Jiri Belohlavek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Glagolitic Mass, JW 3/9 - 4. Veruju' -> 'Janacek: Glagolitic Mass, JW 3/9 - 4. Veruju'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 04 - Janáček  Glagolitic Mass, JW 3 9 - 4  Veruju.flac
+     ↳ After:  04 - Janacek  Glagolitic Mass, JW 3 9 - 4  Veruju.flac
+  📄 Track: 05 - Janáček  Glagolitic Mass, JW 3 9 - 5  Svet.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'artist'] Flat conversion: 'Hibla Gerzmava, Veronika Hajnová, Stuart Neill, Jan Martiník, Prague Philharmonic Choir, Czech Philharmonic, Jiri Belohlavek' -> 'Hibla Gerzmava, Veronika Hajnova, Stuart Neill, Jan Martinik, Prague Philharmonic Choir, Czech Philharmonic, Jiri Belohlavek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Glagolitic Mass, JW 3/9 - 5. Svet' -> 'Janacek: Glagolitic Mass, JW 3/9 - 5. Svet'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 05 - Janáček  Glagolitic Mass, JW 3 9 - 5  Svet.flac
+     ↳ After:  05 - Janacek  Glagolitic Mass, JW 3 9 - 5  Svet.flac
+  📄 Track: 06 - Janáček  Glagolitic Mass, JW 3 9 - 6  Agnece Bozij.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'artist'] Flat conversion: 'Hibla Gerzmava, Veronika Hajnová, Stuart Neill, Jan Martiník, Prague Philharmonic Choir, Czech Philharmonic, Jiri Belohlavek' -> 'Hibla Gerzmava, Veronika Hajnova, Stuart Neill, Jan Martinik, Prague Philharmonic Choir, Czech Philharmonic, Jiri Belohlavek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Glagolitic Mass, JW 3/9 - 6. Agnece Bozij' -> 'Janacek: Glagolitic Mass, JW 3/9 - 6. Agnece Bozij'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 06 - Janáček  Glagolitic Mass, JW 3 9 - 6  Agnece Bozij.flac
+     ↳ After:  06 - Janacek  Glagolitic Mass, JW 3 9 - 6  Agnece Bozij.flac
+  📄 Track: 07 - Janáček  Glagolitic Mass, JW 3 9 - 7  Varhany solo.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'artist'] Flat conversion: 'Aleš Bárta' -> 'Ales Barta'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Glagolitic Mass, JW 3/9 - 7. Varhany solo' -> 'Janacek: Glagolitic Mass, JW 3/9 - 7. Varhany solo'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 07 - Janáček  Glagolitic Mass, JW 3 9 - 7  Varhany solo.flac
+     ↳ After:  07 - Janacek  Glagolitic Mass, JW 3 9 - 7  Varhany solo.flac
+  📄 Track: 08 - Janáček  Glagolitic Mass, JW 3 9 - 8  Intrada.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Glagolitic Mass, JW 3/9 - 8. Intrada' -> 'Janacek: Glagolitic Mass, JW 3/9 - 8. Intrada'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 08 - Janáček  Glagolitic Mass, JW 3 9 - 8  Intrada.flac
+     ↳ After:  08 - Janacek  Glagolitic Mass, JW 3 9 - 8  Intrada.flac
+  📄 Track: 09 - Janáček  Sinfonietta, JW 6 18 - 1  Allegretto - Allegro - Maestoso.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Sinfonietta, JW 6/18 - 1. Allegretto - Allegro - Maestoso' -> 'Janacek: Sinfonietta, JW 6/18 - 1. Allegretto - Allegro - Maestoso'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 09 - Janáček  Sinfonietta, JW 6 18 - 1  Allegretto - Allegro - Maestoso.flac
+     ↳ After:  09 - Janacek  Sinfonietta, JW 6 18 - 1  Allegretto - Allegro - Maestoso.flac
+  📄 Track: 10 - Janáček  Sinfonietta, JW 6 18 - 2  Andante - Allegretto.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Sinfonietta, JW 6/18 - 2. Andante - Allegretto' -> 'Janacek: Sinfonietta, JW 6/18 - 2. Andante - Allegretto'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 10 - Janáček  Sinfonietta, JW 6 18 - 2  Andante - Allegretto.flac
+     ↳ After:  10 - Janacek  Sinfonietta, JW 6 18 - 2  Andante - Allegretto.flac
+  📄 Track: 11 - Janáček  Sinfonietta, JW 6 18 - 3  Moderato.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Sinfonietta, JW 6/18 - 3. Moderato' -> 'Janacek: Sinfonietta, JW 6/18 - 3. Moderato'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 11 - Janáček  Sinfonietta, JW 6 18 - 3  Moderato.flac
+     ↳ After:  11 - Janacek  Sinfonietta, JW 6 18 - 3  Moderato.flac
+  📄 Track: 12 - Janáček  Sinfonietta, JW 6 18 - 4  Allegretto.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Sinfonietta, JW 6/18 - 4. Allegretto' -> 'Janacek: Sinfonietta, JW 6/18 - 4. Allegretto'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 12 - Janáček  Sinfonietta, JW 6 18 - 4  Allegretto.flac
+     ↳ After:  12 - Janacek  Sinfonietta, JW 6 18 - 4  Allegretto.flac
+  📄 Track: 13 - Janáček  Sinfonietta, JW 6 18 - 5  Andante con moto.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Sinfonietta, JW 6/18 - 5. Andante con moto' -> 'Janacek: Sinfonietta, JW 6/18 - 5. Andante con moto'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 13 - Janáček  Sinfonietta, JW 6 18 - 5  Andante con moto.flac
+     ↳ After:  13 - Janacek  Sinfonietta, JW 6 18 - 5  Andante con moto.flac
+  📄 Track: 14 - Janáček  Taras Bulba, JW 6 15 - 1  The death of Andri.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Taras Bulba, JW 6/15 - 1. The death of Andri' -> 'Janacek: Taras Bulba, JW 6/15 - 1. The death of Andri'
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 14 - Janáček  Taras Bulba, JW 6 15 - 1  The death of Andri.flac
+     ↳ After:  14 - Janacek  Taras Bulba, JW 6 15 - 1  The death of Andri.flac
+  📄 Track: 15 - Janáček  Taras Bulba, JW 6 15 - 2  The death of Ostap.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Taras Bulba, JW 6/15 - 2. The death of Ostap' -> 'Janacek: Taras Bulba, JW 6/15 - 2. The death of Ostap'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 15 - Janáček  Taras Bulba, JW 6 15 - 2  The death of Ostap.flac
+     ↳ After:  15 - Janacek  Taras Bulba, JW 6 15 - 2  The death of Ostap.flac
+  📄 Track: 16 - Janáček  Taras Bulba, JW 6 15 - 3  The prophecy and the death of Taras Bulba.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: Taras Bulba, JW 6/15 - 3. The prophecy and the death of Taras Bulba' -> 'Janacek: Taras Bulba, JW 6/15 - 3. The prophecy and the death of Taras Bulba'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 16 - Janáček  Taras Bulba, JW 6 15 - 3  The prophecy and the death of Taras Bulba.flac
+     ↳ After:  16 - Janacek  Taras Bulba, JW 6 15 - 3  The prophecy and the death of Taras Bulba.flac
+  📄 Track: 17 - Janáček  The Fiddler s Child, JW 6 14.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Leoš Janáček' -> 'Leos Janacek'
+     [Meta Tag 'producer'] Flat conversion: 'Jiří Gemrot' -> 'Jiri Gemrot'
+     [Meta Tag 'title'] Flat conversion: 'Janáček: The Fiddler's Child, JW 6/14' -> 'Janacek: The Fiddler's Child, JW 6/14'
+     [Meta Tag 'album'] Flat conversion: 'Janáček: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child' -> 'Janacek: Glagolitic Mass; Taras Bulba; Sinfonietta; The Fiddler’s Child'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 17 - Janáček  The Fiddler s Child, JW 6 14.flac
+     ↳ After:  17 - Janacek  The Fiddler s Child, JW 6 14.flac
+
+📁 ALBUM DIRECTORY: D:/HDtracks\Minnesota Orchestra\Leonard Bernstein  Candide Suite, etc [44_1kHz · 16bit]
+----------------------------------------------------------------------------------------------------------
+  📄 Track: 01 - Overture To Candide.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02 - Suite From Candide.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 03 - Three Meditations From Mass  Meditation No 1.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 04 - Three Meditations From Mass  Meditation No 2.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 05 - Three Meditations From Mass  Meditation No 3.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 06 - Five Songs  Extinguish My Eyes.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 07 - Five Songs  When My Soul Touches Yours.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 08 - Five Songs  Piccola Serenata.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 09 - Five Songs  So Pretty.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 10 - Five Songs  Silhouette.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 11 - Divertimento For Orchestra  Sennets And Tuckets.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 12 - Divertimento For Orchestra  Waltz.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 13 - Divertimento For Orchestra  Mazurka.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 14 - Divertimento For Orchestra  Samba.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 15 - Divertimento For Orchestra  Turkey Trot.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 16 - Divertimento For Orchestra  Sphinxes.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 17 - Divertimento For Orchestra  Blues.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 18 - Divertimento For Orchestra  In Memoriam; March   The BSO Forever.flac
+     [Meta] Removed tracking tag: copyright
+
+📁 ALBUM DIRECTORY: D:/HDtracks\Minnesota Orchestra\Pictures at an Exhibition [44_1kHz · 16bit]
+----------------------------------------------------------------------------------------------
+  📄 Track: 01 - Ravel  Alborada Del Gracioso.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02 - Ravel  Sheherazade  Ouverture de feerie.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 03 - Debussy  Sarabande.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 04 - Debussy  Danse.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 05 - Schumann Carnaval  Preambule.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 06 - Schumann Carnaval  Valse Allemande - Paganini - Valse Allemande.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 07 - Schumann Carnaval  Marche Des Davidsbundler Contre Les Philistins.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 08 - Chabrier-Ravel  Menuet Pompeux.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 09 - Mussorgsky-Ravel  Pictures at an Exhibition  Promenade.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 10 - Mussorgsky-Ravel  Pictures at an Exhibition  Gnomus.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 11 - Mussorgsky-Ravel  Pictures at an Exhibition  Promenade.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 12 - Mussorgsky-Ravel  Pictures at an Exhibition  The Old Castle.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 13 - Mussorgsky-Ravel  Pictures at an Exhibition  Promenade.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 14 - Mussorgsky-Ravel  Pictures at an Exhibition  Tuileries.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 15 - Mussorgsky-Ravel  Pictures at an Exhibition  Bydlo.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 16 - Mussorgsky-Ravel  Pictures at an Exhibition  Promenade.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 17 - Mussorgsky-Ravel  Pictures at an Exhibition  Ballet Of The Chicks In Their Shells.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 18 - Mussorgsky-Ravel  Pictures at an Exhibition  Samuel Goldenberg And Schmuyle.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 19 - Mussorgsky-Ravel  Pictures at an Exhibition  Limoges - Le Marche.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 20 - Mussorgsky-Ravel  Pictures at an Exhibition  Catacombae.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 21 - Mussorgsky-Ravel  Pictures at an Exhibition  Con Mortuis In Lingua Mortua.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 22 - Mussorgsky-Ravel  Pictures at an Exhibition  The Hut Of Baba-Yaga.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 23 - Mussorgsky-Ravel  Pictures at an Exhibition  The Great Gate At Kiev.flac
+     [Meta] Removed tracking tag: copyright
+
+📁 ALBUM DIRECTORY: D:/HDtracks\Montserrat Caballé, Nicolai Ghiaurov, Leonard Bernstein\R  Strauss  Selections From  Salome , 5 Songs; Boito  Mefistofele (Prologo) [96kHz · 24bit]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  📄 Track: 01 - R  Strauss  Salome, Op  54, TrV 215   Scene 4 -  Es ist kein L.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'albumartist'] Flat conversion: 'Montserrat Caballé, Nicolai Ghiaurov, Leonard Bernstein' -> 'Montserrat Caballe, Nicolai Ghiaurov, Leonard Bernstein'
+     [Meta Tag 'engineer'] Flat conversion: 'Klaus Scheibe, Wolf-Dieter Karwatky, Hans-Rudolf Müller' -> 'Klaus Scheibe, Wolf-Dieter Karwatky, Hans-Rudolf Muller'
+     [Meta Tag 'artist'] Flat conversion: 'Montserrat Caballé, Orchestre National de France, Leonard Bernstein' -> 'Montserrat Caballe, Orchestre National de France, Leonard Bernstein'
+  📄 Track: 02 - R  Strauss  Salome, Op  54, TrV 215   Scene 4 - Salome s Dance.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'albumartist'] Flat conversion: 'Montserrat Caballé, Nicolai Ghiaurov, Leonard Bernstein' -> 'Montserrat Caballe, Nicolai Ghiaurov, Leonard Bernstein'
+     [Meta Tag 'engineer'] Flat conversion: 'Klaus Scheibe, Wolf-Dieter Karwatky, Hans-Rudolf Müller' -> 'Klaus Scheibe, Wolf-Dieter Karwatky, Hans-Rudolf Muller'
+  📄 Track: 03 - R  Strauss  4 Lieder, Op  27, TrV 170 - II  Cäcilie.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'albumartist'] Flat conversion: 'Montserrat Caballé, Nicolai Ghiaurov, Leonard Bernstein' -> 'Montserrat Caballe, Nicolai Ghiaurov, Leonard Bernstein'
+     [Meta Tag 'engineer'] Flat conversion: 'Klaus Scheibe, Wolf-Dieter Karwatky, Hans-Rudolf Müller' -> 'Klaus Scheibe, Wolf-Dieter Karwatky, Hans-Rudolf Muller'
+     [Meta Tag 'artist'] Flat conversion: 'Montserrat Caballé, Orchestre National de France, Leonard Bernstein' -> 'Montserrat Caballe, Orchestre National de France, Leonard Bernstein'
+     [Meta Tag 'title'] Flat conversion: 'R. Strauss: 4 Lieder, Op. 27, TrV 170 - II. Cäcilie' -> 'R. Strauss: 4 Lieder, Op. 27, TrV 170 - II. Cacilie'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 03 - R  Strauss  4 Lieder, Op  27, TrV 170 - II  Cäcilie.flac
+     ↳ After:  03 - R  Strauss  4 Lieder, Op  27, TrV 170 - II  Cacilie.flac
+  📄 Track: 04 - R  Strauss  5 Lieder, Op  41, TrV 195 - I  Wiegenlied.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'albumartist'] Flat conversion: 'Montserrat Caballé, Nicolai Ghiaurov, Leonard Bernstein' -> 'Montserrat Caballe, Nicolai Ghiaurov, Leonard Bernstein'
+     [Meta Tag 'engineer'] Flat conversion: 'Klaus Scheibe, Wolf-Dieter Karwatky, Hans-Rudolf Müller' -> 'Klaus Scheibe, Wolf-Dieter Karwatky, Hans-Rudolf Muller'
+     [Meta Tag 'artist'] Flat conversion: 'Montserrat Caballé, Orchestre National de France, Leonard Bernstein' -> 'Montserrat Caballe, Orchestre National de France, Leonard Bernstein'
+  📄 Track: 05 - R  Strauss  Sechs Lieder, Op  37, TrV 187 - II  Ich liebe dich.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'albumartist'] Flat conversion: 'Montserrat Caballé, Nicolai Ghiaurov, Leonard Bernstein' -> 'Montserrat Caballe, Nicolai Ghiaurov, Leonard Bernstein'
+     [Meta Tag 'engineer'] Flat conversion: 'Klaus Scheibe, Wolf-Dieter Karwatky, Hans-Rudolf Müller' -> 'Klaus Scheibe, Wolf-Dieter Karwatky, Hans-Rudolf Muller'
+     [Meta Tag 'artist'] Flat conversion: 'Montserrat Caballé, Orchestre National de France, Leonard Bernstein' -> 'Montserrat Caballe, Orchestre National de France, Leonard Bernstein'
+  📄 Track: 06 - R  Strauss  4 Lieder, Op  27, TrV 170 - IV  Morgen.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'albumartist'] Flat conversion: 'Montserrat Caballé, Nicolai Ghiaurov, Leonard Bernstein' -> 'Montserrat Caballe, Nicolai Ghiaurov, Leonard Bernstein'
+     [Meta Tag 'engineer'] Flat conversion: 'Klaus Scheibe, Wolf-Dieter Karwatky, Hans-Rudolf Müller' -> 'Klaus Scheibe, Wolf-Dieter Karwatky, Hans-Rudolf Muller'
+     [Meta Tag 'artist'] Flat conversion: 'Montserrat Caballé, Orchestre National de France, Leonard Bernstein' -> 'Montserrat Caballe, Orchestre National de France, Leonard Bernstein'
+  📄 Track: 07 - R  Strauss  8 Gedichte aus  Letzte Blätter , Op  10, TrV 141 -.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'albumartist'] Flat conversion: 'Montserrat Caballé, Nicolai Ghiaurov, Leonard Bernstein' -> 'Montserrat Caballe, Nicolai Ghiaurov, Leonard Bernstein'
+     [Meta Tag 'engineer'] Flat conversion: 'Klaus Scheibe, Wolf-Dieter Karwatky, Hans-Rudolf Müller' -> 'Klaus Scheibe, Wolf-Dieter Karwatky, Hans-Rudolf Muller'
+     [Meta Tag 'artist'] Flat conversion: 'Montserrat Caballé, Orchestre National de France, Leonard Bernstein' -> 'Montserrat Caballe, Orchestre National de France, Leonard Bernstein'
+     [Meta Tag 'title'] Flat conversion: 'R. Strauss: 8 Gedichte aus "Letzte Blätter", Op. 10, TrV 141 - I. Zueignung' -> 'R. Strauss: 8 Gedichte aus "Letzte Blatter", Op. 10, TrV 141 - I. Zueignung'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 07 - R  Strauss  8 Gedichte aus  Letzte Blätter , Op  10, TrV 141 -.flac
+     ↳ After:  07 - R  Strauss  8 Gedichte aus  Letzte Blatter , Op  10, TrV 141 -.flac
+  📄 Track: 08 - Boito  Mefistofele - Original Version   Prologue - Preludio.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'albumartist'] Flat conversion: 'Montserrat Caballé, Nicolai Ghiaurov, Leonard Bernstein' -> 'Montserrat Caballe, Nicolai Ghiaurov, Leonard Bernstein'
+  📄 Track: 09 - Boito  Mefistofele - Original Version   Prologue - Ave, Signor.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'albumartist'] Flat conversion: 'Montserrat Caballé, Nicolai Ghiaurov, Leonard Bernstein' -> 'Montserrat Caballe, Nicolai Ghiaurov, Leonard Bernstein'
+  📄 Track: 10 - Boito  Mefistofele - Original Version   Prologue - T è noto Faust.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'albumartist'] Flat conversion: 'Montserrat Caballé, Nicolai Ghiaurov, Leonard Bernstein' -> 'Montserrat Caballe, Nicolai Ghiaurov, Leonard Bernstein'
+     [Meta Tag 'title'] Flat conversion: 'Boito: Mefistofele - Original Version / Prologue - T'è noto Faust?' -> 'Boito: Mefistofele - Original Version / Prologue - T'e noto Faust?'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 10 - Boito  Mefistofele - Original Version   Prologue - T è noto Faust.flac
+     ↳ After:  10 - Boito  Mefistofele - Original Version   Prologue - T e noto Faust.flac
+  📄 Track: 11 - Boito  Mefistofele - Original Version   Prologue - Siam nimbi .flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'albumartist'] Flat conversion: 'Montserrat Caballé, Nicolai Ghiaurov, Leonard Bernstein' -> 'Montserrat Caballe, Nicolai Ghiaurov, Leonard Bernstein'
+  📄 Track: 12 - Boito  Mefistofele - Original Version   Prologue - Salve Regina.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'albumartist'] Flat conversion: 'Montserrat Caballé, Nicolai Ghiaurov, Leonard Bernstein' -> 'Montserrat Caballe, Nicolai Ghiaurov, Leonard Bernstein'
+
+📁 ALBUM DIRECTORY: D:/HDtracks\Orchestre Philharmonique de Strasbourg\Spatial Audio - The 3D Film Music Collection [48kHz · 24bit]
+----------------------------------------------------------------------------------------------------------------------------------
+  📄 Track: 01 - The Sea Hawk.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02 - Gone with the Wind  Tara’s Theme.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 03 - Ben-Hur  Overture.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Miklós Rózsa' -> 'Miklos Rozsa'
+  📄 Track: 04 - Ben-Hur  Love Theme.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Miklós Rózsa' -> 'Miklos Rozsa'
+  📄 Track: 05 - North by Northwest  Overture.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 06 - Vertigo  Love Scene.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 07 - Psycho  Prelude.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 08 - Psycho  The Murder.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 09 - Psycho  Final.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 10 - 8 ½  La passerella di addio.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 11 - The Godfather  Kay.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 12 - The Godfather  Love Theme.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 13 - The Godfather  End Title.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 14 - The Magnificent Seven  Main Title.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 15 - Lawrence of Arabia  Overture.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 16 - Once Upon a Time in the West  Main Theme.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 17 - Once Upon a Time in the West  Man with a Harmonica.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 18 - The Untouchables  Theme.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 19 - Cinema Paradiso  Main Theme.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 20 - Dr  No  James Bond Theme (Arr  by Tyzik).flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 21 - Thunderball (Arr  by Tyzik).flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 22 - Live and Let Die (Arr  by Tyzik).flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 23 - Jaws  The Shark Theme.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 24 - Star Wars  Main Title.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 25 - Indiana Jones,  Raiders of the Lost Ark   Raiders March.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 26 - Marion’s Theme (From  Indiana Jones, Raiders of the Lost Ark ).flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 27 - Indiana Jones and the Last Crusade  Scherzo for motorcycle and orchestra.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 28 - Jurassic Park  Theme.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 29 - Back to the Future  Main Title.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 30 - Batman  Main Title.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 31 - Last of the Mohicans  Main Title.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 32 - Last of the Mohicans  The Kiss.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 33 - The Lord of the Rings  The Fellowship of the Ring - Concerning Hobbits.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 34 - The Lord of the Rings  The Return of the King - The Lighting of the Beacons.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 35 - Pirates of the Caribbean  He’s a Pirate.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 36 - Mission Impossible 3  Schifrin and Variations.flac
+     [Meta] Removed tracking tag: copyright
+
+📁 ALBUM DIRECTORY: D:/HDtracks\The Who\Who's Next (Deluxe Edition)
+------------------------------------------------------------------
+  📄 Track: 01-Baba O'Riley.flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 02-Bargain.flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 03-Love Ain't For Keeping.flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 04-My Wife.flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 05-The Song Is Over.flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 06-Getting In Tune.flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 07-Going Mobile.flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 08-Behind Blue Eyes.flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 09-Won't Get Fooled Again.flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 10-Baby Don't You Do It (New York Record Plant Session).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 11-Getting In Tune (New York Record Plant Session).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 12-Pure And Easy (New York Record Plant Session).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 13-Love Ain't For Keeping (New York Record Plant Session).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 14-Behind Blue Eyes (New York Record Plant Session).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 15-Won't Get Fooled Again (New York Record Plant Session).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 16-Love Ain't For Keeping (Live).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 17-Pure And Easy (Live).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 18-Young Man Blues (Live).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 19-Time Is Passing (Live).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 20-Behind Blue Eyes (Live).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 21-I Don't Even Know Myself (Live).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 22-Too Much Of Anything (Live).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 23-Getting In Tune (Live).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 24-Bargain (Live).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 25-Water (Live).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 26-My Generation (Live).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 27-(I'm A) Road Runner (Live).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 28-Naked Eye (Live).flac
+     [Meta] Removed tracking tag: encoder
+  📄 Track: 29-Won't Get Fooled Again (Live).flac
+     [Meta] Removed tracking tag: encoder
+
+📁 ALBUM DIRECTORY: D:/HDtracks\Various Artists\Hdtracks 2022 Hi-Res Sampler [96kHz · 24bit]
+-------------------------------------------------------------------------------------------
+  📄 Track: 01 - Tchaikovsky  Coronation March.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02 - Psalm 71 1-12.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 03 - Frojda dig, du Kristi brud (O bride of Christ, Rejoice).flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 04 - Libertango.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'artist'] Flat conversion: 'Trio de Curda - José Ariel Palacio' -> 'Trio de Curda - Jose Ariel Palacio'
+  📄 Track: 05 - Concierto de Aranjuez (adagio).flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 06 - Chromatic Fantasia and Fugue in D minor, BWV 903  Fantasia.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 07 - NORTH COUNTRY II.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 08 - Paul Dukas  Villanelle (1906).flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 09 - Long After You Are Gone.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 10 - Silent Night (HiRes Bonus Track).flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 11 - Train Of Tears.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 12 - Troisième recueil de sonates, Sonata No  6 in D Minor (Arr  for Piano Solo)  I  Cantabile.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'title'] Flat conversion: 'Troisième recueil de sonates, Sonata No. 6 in D Minor (Arr. for Piano Solo): I. Cantabile' -> 'Troisieme recueil de sonates, Sonata No. 6 in D Minor (Arr. for Piano Solo): I. Cantabile'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 12 - Troisième recueil de sonates, Sonata No  6 in D Minor (Arr  for Piano Solo)  I  Cantabile.flac
+     ↳ After:  12 - Troisieme recueil de sonates, Sonata No  6 in D Minor (Arr  for Piano Solo)  I  Cantabile.flac
+  📄 Track: 13 - Symphony No  6 in A Major, WAB 106  III  Scherzo  Nicht schnell - Langsam.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 14 - 3 gemischte Chöre  No  3, Gondoliera (Arr  for Vocal Ensemble).flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'title'] Flat conversion: '3 gemischte Chöre: No. 3, Gondoliera (Arr. for Vocal Ensemble)' -> '3 gemischte Chore: No. 3, Gondoliera (Arr. for Vocal Ensemble)'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 14 - 3 gemischte Chöre  No  3, Gondoliera (Arr  for Vocal Ensemble).flac
+     ↳ After:  14 - 3 gemischte Chore  No  3, Gondoliera (Arr  for Vocal Ensemble).flac
+  📄 Track: 15 - 99 (Live in the Studio - E S E).flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 16 - Venus Rising (Live in the Studio - E S E).flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 17 - Jarreau.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 18 - Violin Concerto No  3 in G Major, K  216  III  Rondeau  Allegro.flac
+     [Meta] Removed tracking tag: copyright
+
+📁 ALBUM DIRECTORY: D:/HDtracks\Various Artists\HDtracks 2025 Hi-Res Sampler [192kHz · 24bit]
+--------------------------------------------------------------------------------------------
+  📄 Track: 01 - Don t You.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02 - Stop Those Bells.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 03 - Kingston Dub Town.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 04 - Lay Down With Dogs.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 05 - 4 Impromptus, Op 90  II  Allegro in E-flat Major.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 06 - Still We Rise.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 07 - Violin Sonata in G Minor, Op  5 No  5  IV  Vivace.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 08 - Battle Hymn for the Republic.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 09 - Piano Sonata No  7 in C Major, K  309  I  Allegro con spirito.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 10 - Realization Part Two.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 11 - Better Days.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 12 - Sirens.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 13 - Impatient.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 14 - Fugatta.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 15 - Violin Sonata No  1 in G Minor, BWV 1001 (Arr  for Guitar)  IV  Presto.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'artist'] Flat conversion: 'Mak Grgić' -> 'Mak Grgic'
+  📄 Track: 16 - Overture in the French Style, BWV 831  I  Overture.flac
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 17 - Cello Sonata in G Minor, Op  19  II  Allegro scherzando.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'artist'] Flat conversion: 'Noémie Raymond, Zhenni Li-Cohen' -> 'Noemie Raymond, Zhenni Li-Cohen'
+
+📁 ALBUM DIRECTORY: D:/HDtracks\Various Artists\The Audiophile Classical Collection
+----------------------------------------------------------------------------------
+  📄 Track: 01-Kyrie (from _Requiem_).flac
+  📄 Track: 02-Concerto No. 4, Movement 1.flac
+  📄 Track: 03-Oblivion.flac
+  📄 Track: 04-Mars.flac
+  📄 Track: 05-Suite No. 1 in C major BWV 1066_ Overture.flac
+  📄 Track: 06-Sicut cervus, motet for 4 voices (from Motets Book II for 4 voices).flac
+  📄 Track: 07-Gallimathias Musicum, KV. 32 (Quodlibet) - VI. Allegretto.flac
+  📄 Track: 08-Flute Quartet No. 1 in D, KV 285_ I. Allegro.flac
+  📄 Track: 09-Sonata Pro tabula in C major.flac
+  📄 Track: 10-Berlioz_ The Damnation of Faust, op. 24_ Hungarian March.flac
+  📄 Track: 11-Lucy Simon_ Instrumental Medley from The Secret Garden.flac
+     [Meta Tag 'artist'] Flat conversion: 'Orchester der Vereinigten Bühnen Wien / Caspar Richter, conductor' -> 'Orchester der Vereinigten Buhnen Wien / Caspar Richter, conductor'
+  📄 Track: 12-L'histoire du soldat (The Soldier's Tale), for 3 actors, dancer & 7 instruments_ Part 1. The Soldier's March_ Reprise.flac
+  📄 Track: 13-An der schoenen blauen Donau.flac
+  📄 Track: 14-Sonata D Minor (K.141).flac
+  📄 Track: 15-Concerto No. 2 in G minor, _L'Estate_ (Summer), RV 315. 1. Allegro non molto - Allegro.flac
+  📄 Track: 16-Wagner_ Tannhauser_ Act II, Scene 4 Chorus_ _Freudig Begrussen Wir Die Edle Halle_.flac
+     [Meta Tag 'title'] Flat conversion: 'Wagner: Tannhauser: Act II, Scene 4 Chorus: "Freudig Begrüssen Wir Die Edle Halle"' -> 'Wagner: Tannhauser: Act II, Scene 4 Chorus: "Freudig Begrussen Wir Die Edle Halle"'
+  📄 Track: 17-Dir Walkure_ Ride of the Valkyries.flac
+  📄 Track: 18-Bach Toccata And Fugue.flac
+  📄 Track: 19-Concerto for Piano and Orchestra_ Movement 2.flac
+
+📁 ALBUM DIRECTORY: D:/HDtracks\Wiener Philharmoniker, Gustavo Dudamel\Mussorgsky  Pictures At An Exhibition [96kHz · 24bit]
+---------------------------------------------------------------------------------------------------------------------------
+  📄 Track: 01 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - Promenade I.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 02 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - I  Gnomus.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 03 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - Promenade II.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 04 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - II  The Old Castle.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 05 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - Promenade III.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 06 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - III  Tuileries Gardens.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 07 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - IV  Bydlo.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 08 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - Promenade IV.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 09 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - V  Ballet of the Unhatched Chicks.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 10 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - VI  Samuel Goldenberg und Schmuÿle.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+     [Meta Tag 'title'] Flat conversion: 'Mussorgsky: Pictures at an Exhibition (Orch. Ravel) - VI. Samuel Goldenberg und Schmuÿle' -> 'Mussorgsky: Pictures at an Exhibition (Orch. Ravel) - VI. Samuel Goldenberg und Schmuyle'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 10 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - VI  Samuel Goldenberg und Schmuÿle.flac
+     ↳ After:  10 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - VI  Samuel Goldenberg und Schmuyle.flac
+  📄 Track: 11 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - VII  The Market at Limoges.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 12 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - VIIIa  Catacombae (Sepulchrum Romanum).flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 13 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - VIIIb  Cum mortuis in lingua mortua.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 14 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - IX  The Hut on Chicken s Legs.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 15 - Mussorgsky  Pictures at an Exhibition (Orch  Ravel) - X  The Great Gate of Kiev.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 16 - Mussorgsky  Night on Bald Mountain.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+  📄 Track: 17 - Tchaikovsky  Swan Lake Suite, Op  20a - II  Waltz.flac
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'engineer'] Flat conversion: 'René Möller' -> 'Rene Moller'
+
+📁 ALBUM DIRECTORY: D:/Audite\Ludwig_van_Beethoven_Complete_String_Quartets\flac_44100_24_2ch
+--------------------------------------------------------------------------------------------
+  📄 Track: 01_04_01_String_Quartet_in_F_Major_Op_18_No_1_I_Allegro_con_brio.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_04_02_String_Quartet_in_F_Major_Op_18_No_1_II_Adagio_affettuoso_ed_appassionato.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_04_03_String_Quartet_in_F_Major_Op_18_No_1_III_Scherzo_Allegro_molto_Trio.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_04_04_String_Quartet_in_F_Major_Op_18_No_1_IV_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_07_01_String_Quartet_in_G_Major_Op_18_No_2_I_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_07_02_String_Quartet_in_G_Major_Op_18_No_2_II_Adagio_cantabile_Allegro_Tempo_I.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_07_03_String_Quartet_in_G_Major_Op_18_No_2_III_Scherzo_Allegro_Trio.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_07_04_String_Quartet_in_G_Major_Op_18_No_2_IV_Allegro_molto_quasi_Presto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 03_08_01_String_Quartet_in_D_Major_Op_18_No_3_I_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 03_08_02_String_Quartet_in_D_Major_Op_18_No_3_II_Andante_con_moto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 03_08_03_String_Quartet_in_D_Major_Op_18_No_3_III_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 03_08_04_String_Quartet_in_D_Major_Op_18_No_3_IV_Presto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 04_03_01_String_Quartet_in_C_Minor_Op_18_No_4_I_Allegro_ma_non_tanto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 04_03_02_String_Quartet_in_C_Minor_Op_18_No_4_II_Andante_scherzoso_quasi_Allegretto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 04_03_03_String_Quartet_in_C_Minor_Op_18_No_4_III_Menuetto_Allegretto_Trio.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 04_03_04_String_Quartet_in_C_Minor_Op_18_No_4_IV_Allegro_Prestissimo.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 05_06_01_String_Quartet_in_A_Major_Op_18_No_5_I_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 05_06_02_String_Quartet_in_A_Major_Op_18_No_5_II_Menuetto_Trio.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 05_06_03_String_Quartet_in_A_Major_Op_18_No_5_III_Andante_cantabile_con_variazioni.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 05_06_04_String_Quartet_in_A_Major_Op_18_No_5_IV_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 06_01_01_String_Quartet_in_B_Flat_Major_Op_18_No_6_I_Allegro_con_brio.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 06_01_02_String_Quartet_in_B_Flat_Major_Op_18_No_6_II_Adagio_ma_non_troppo.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 06_01_03_String_Quartet_in_B_Flat_Major_Op_18_No_6_III_Scherzo_Trio.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 06_01_04_String_Quartet_in_B_Flat_Major_Op_18_No_6_IV_La_Malinconia_Adagio_Allegret...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 07_03_01_String_Quartet_in_F_Major_Op_59_No_1_I_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 07_03_02_String_Quartet_in_F_Major_Op_59_No_1_II_Allegretto_vivace_e_sempre_scherza...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 07_03_03_String_Quartet_in_F_Major_Op_59_No_1_III_Adagio_molto_e_mesto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 07_03_04_String_Quartet_in_F_Major_Op_59_No_1_IV_Theme_russe_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'title'] Flat conversion: 'String Quartet in F Major, Op. 59 No. 1, IV. Thème russe. Allegro' -> 'String Quartet in F Major, Op. 59 No. 1, IV. Theme russe. Allegro'
+  📄 Track: 08_02_01_String_Quartet_in_E_Minor_Op_59_No_2_I_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 08_02_02_String_Quartet_in_E_Minor_Op_59_No_2_II_Molto_Adagio.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 08_02_03_String_Quartet_in_E_Minor_Op_59_No_2_III_Allegretto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 08_02_04_String_Quartet_in_E_Minor_Op_59_No_2_IV_Finale_Presto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 09_07_01_String_Quartet_in_C_Major_Op_59_No_3_I_Introduzione_Andante_con_moto_Alleg...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 09_07_02_String_Quartet_in_C_Major_Op_59_No_3_II_Andante_con_moto_quasi_Allegretto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 09_07_03_String_Quartet_in_C_Major_Op_59_No_3_III_Menuetto_Grazioso_Trio_Coda_.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 09_07_04_String_Quartet_in_C_Major_Op_59_No_3_IV_Allegro_molto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 10_08_01_String_Quartet_in_E_Flat_Major_Op_74_Harp_I_Poco_Adagio_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 10_08_02_String_Quartet_in_E_Flat_Major_Op_74_Harp_II_Adagio_ma_non_troppo.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 10_08_03_String_Quartet_in_E_Flat_Major_Op_74_Harp_III_Presto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 10_08_04_String_Quartet_in_E_Flat_Major_Op_74_Harp_IV_Allegretto_con_Variazioni.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 11_01_01_String_Quartet_in_F_Minor_Op_95_I_Allegro_con_brio.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 11_01_02_String_Quartet_in_F_Minor_Op_95_II_Allegretto_ma_non_troppo.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 11_01_03_String_Quartet_in_F_Minor_Op_95_III_Allegro_assai_vivace_ma_serioso.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 11_01_04_String_Quartet_in_F_Minor_Op_95_IV_Larghetto_espressivo_Allegretto_agitato.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 12_02_01_String_Quartet_in_E_Flat_Major_Op_127_I_Maestoso_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 12_02_02_String_Quartet_in_E_Flat_Major_Op_127_II_Adagio_ma_non_troppo_e_molto_cant...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 12_02_03_String_Quartet_in_E_Flat_Major_Op_127_III_Scherzo_Vivace.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 12_02_04_String_Quartet_in_E_Flat_Major_Op_127_IV_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 13_06_01_String_Quartet_in_B_Flat_Major_Op_130_I_Adagio_ma_non_troppo_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 13_06_02_String_Quartet_in_B_Flat_Major_Op_130_II_Presto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 13_06_03_String_Quartet_in_B_Flat_Major_Op_130_III_Poco_scherzoso_Andante_con_moto_...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 13_06_04_String_Quartet_in_B_Flat_Major_Op_130_IV_Alla_danza_tedesca_Allegro_assai.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 13_06_05_String_Quartet_in_B_Flat_Major_Op_130_V_Cavatina_Adagio_molto_espressivo.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 13_06_06_String_Quartet_in_B_Flat_Major_Op_130_VI_Finale_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 14_04_01_String_Quartet_in_C_Sharp_Minor_Op_131_No_14_I_Adagio_ma_non_troppo_e_molt...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 14_04_02_String_Quartet_in_C_Sharp_Minor_Op_131_No_14_II_Allegro_molto_vivace.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 14_04_03_String_Quartet_in_C_Sharp_Minor_Op_131_No_14_III_Allegro_moderato.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 14_04_04_String_Quartet_in_C_Sharp_Minor_Op_131_No_14_IV_Andante_ma_non_troppo_e_mo...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'title'] Flat conversion: 'String Quartet in C-Sharp Minor, Op. 131, No. 14, IV. Andante ma non troppo e molto cantabile – più mosso – Andante moderato e lusinghiero – Adagio – Allegretto – Adagio ma non troppo e semplice – Allegretto – Allegretto' -> 'String Quartet in C-Sharp Minor, Op. 131, No. 14, IV. Andante ma non troppo e molto cantabile – piu mosso – Andante moderato e lusinghiero – Adagio – Allegretto – Adagio ma non troppo e semplice – Allegretto – Allegretto'
+  📄 Track: 14_04_05_String_Quartet_in_C_Sharp_Minor_Op_131_No_14_V_Presto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 14_04_06_String_Quartet_in_C_Sharp_Minor_Op_131_No_14_VI_Adagio_quasi_un_poco_andan...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 14_04_07_String_Quartet_in_C_Sharp_Minor_Op_131_No_14_VII_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 15_05_01_String_Quartet_in_A_Minor_Op_132_I_Assai_sostenuto_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 15_05_02_String_Quartet_in_A_Minor_Op_132_II_Allegro_ma_non_tanto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 15_05_03_String_Quartet_in_A_Minor_Op_132_III_Molto_adagio_neue_Kraft_fuehlend_Anda...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'title'] Flat conversion: 'String Quartet in A Minor, Op. 132, III. Molto adagio – neue Kraft fühlend. Andante – Molto adagio – Andante – Molto adagio' -> 'String Quartet in A Minor, Op. 132, III. Molto adagio – neue Kraft fuhlend. Andante – Molto adagio – Andante – Molto adagio'
+  📄 Track: 15_05_04_String_Quartet_in_A_Minor_Op_132_IV_Alla_marcia_assai_vivace.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 15_05_05_String_Quartet_in_A_Minor_Op_132_V_Allegro_appassionato.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 16_01_01_String_Quartet_in_F_Major_Op_135_I_Allegretto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 16_01_02_String_Quartet_in_F_Major_Op_135_II_Vivace.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 16_01_03_String_Quartet_in_F_Major_Op_135_III_Lento_assai_cantante_e_tranquillo.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 16_01_04_String_Quartet_in_F_Major_Op_135_IV_Der_schwer_gefasste_Entschluss_The_dif...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: GF_03_01_Great_Fugue_in_B_Flat_Major_Op_133_Overtura_Allegro_Meno_mosso_e_moderato_...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: QI_05_01_String_Quintet_in_C_Major_Op_29_I_Allegro_moderato.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: QI_05_02_String_Quintet_in_C_Major_Op_29_II_Adagio_molto_espressivo.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: QI_05_03_String_Quintet_in_C_Major_Op_29_III_Scherzo_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: QI_05_04_String_Quintet_in_C_Major_Op_29_IV_Presto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+
+📁 ALBUM DIRECTORY: D:/Audite\Ludwig_van_Beethoven_Piano_Sonatas_Nos_23_30_32\Ludwig_van_Beethoven_Piano_Sonatas_Nos_23_30_32\flac_96000_24_2ch
+----------------------------------------------------------------------------------------------------------------------------------------------
+  📄 Track: 01_Piano_Sonata_No_23_in_F_Minor_Op_57_Appassionata_I_Allegro_assai.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_Piano_Sonata_No_23_in_F_Minor_Op_57_Appassionata_II_Andante_con_moto_.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 03_Piano_Sonata_No_23_in_F_Minor_Op_57_Appassionata_III_Allegro_ma_non_troppo_Pr...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 04_Piano_Sonata_No_30_in_E_Major_Op_109_I_Vivace_ma_non_troppo_sempre_legato_Ada...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 05_Piano_Sonata_No_30_in_E_Major_Op_109_II_Prestissimo.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 06_Piano_Sonata_No_30_in_E_Major_Op_109_III_Gesangvoll_mit_innigster_Empfindung_...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 07_Piano_Sonata_No_30_in_E_Major_Op_109_III_Variation_I_Molto_espressivo.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 08_Piano_Sonata_No_30_in_E_Major_Op_109_III_Variation_II_Leggieramente.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 09_Piano_Sonata_No_30_in_E_Major_Op_109_III_Variation_III_Allegro_vivace.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 10_Piano_Sonata_No_30_in_E_Major_Op_109_III_Variation_IV_Un_poco_meno_andante_ci...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'title'] Flat conversion: 'Piano Sonata No. 30 in E Major, Op. 109, III. Variation IV. Un poco meno andante ciò è un poco più adagio come il tema' -> 'Piano Sonata No. 30 in E Major, Op. 109, III. Variation IV. Un poco meno andante cio e un poco piu adagio come il tema'
+  📄 Track: 11_Piano_Sonata_No_30_in_E_Major_Op_109_III_Variation_V_Allegro_ma_non_troppo.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 12_Piano_Sonata_No_30_in_E_Major_Op_109_III_Variation_VI_Tempo_primo_del_tema.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 13_Piano_Sonata_No_30_in_E_Major_Op_109_III_Cantabile.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 14_Piano_Sonata_No_32_in_C_Minor_Op_111_I_Maestoso_Allegro_con_brio_ed_appassion...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 15_Piano_Sonata_No_32_in_C_Minor_Op_111_II_Arietta_Adagio_molto_semplice_cantabi...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+
+📁 ALBUM DIRECTORY: D:/Audite\Ludwig_van_Beethoven_Complete_Works_for_Piano_Trio_Vol_1\Ludwig_van_Beethoven_Complete_Works_for_Piano_Trio_Vol_1\flac_96000_24_2ch
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+  📄 Track: 01_Piano_Trio_No_1_in_E_Flat_Major_Op_1_1_I_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_Piano_Trio_No_1_in_E_Flat_Major_Op_1_1_II_Adagio_cantabile.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 03_Piano_Trio_No_1_in_E_Flat_Major_Op_1_1_III_Scherzo_Allegro_assai.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 04_Piano_Trio_No_1_in_E_Flat_Major_Op_1_1_IV_Finale_Presto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 05_Piano_Trio_No_7_in_B_Flat_Major_Op_97_I_Allegro_moderato.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 06_Piano_Trio_No_7_in_B_Flat_Major_Op_97_II_Scherzo_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 07_Piano_Trio_No_7_in_B_Flat_Major_Op_97_III_Andante_cantabile_ma_pero_con_moto_...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'title'] Flat conversion: 'III. Andante cantabile ma però con moto - Poco più adagio' -> 'III. Andante cantabile ma pero con moto - Poco piu adagio'
+  📄 Track: 08_Piano_Trio_No_7_in_B_Flat_Major_Op_97_IV_Allegro_moderato_Presto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+
+📁 ALBUM DIRECTORY: D:/Audite\Best_s_Bach\flac_44100_24_2ch
+----------------------------------------------------------
+  📄 Track: 01_Partita_No_2_in_D_minor_for_Solo_Violin_BWV_1004_Ciaccona_Chaconne_.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_Liebster_Jesu_wir_sind_hier_Chorale_Prelude_BWV_731_Blessed_Jesus_we_are_here...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 03_Herr_Jesu_Christ_dich_zu_uns_wend_Chorale_Prelude_BWV_709_Lord_Jesus_Christ_u...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 04_Herzlich_thut_mich_verlangen_Chorale_Prelude_BWV_727_Fervently_do_I_long_for_.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 05_Praeludium_und_Fuge_in_E_minor_BWV_533_Praeludium.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'title'] Flat conversion: 'Präludium' -> 'Praludium'
+  📄 Track: 06_Praeludium_und_Fuge_in_E_minor_BWV_533_Fuge.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 07_Passacaglia_in_C_minor_BWV_582.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 08_Toccata_and_Fugue_in_D_Minor_BWV_565.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 09_Orgelbuechlein_Herr_Gott_nun_schleuss_den_Himmel_auf_Chorale_Prelude_BWV_617_...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 10_Schuebler_Chorales_Magnificat_Meine_Seele_erhebt_den_Herren_Chorale_Prelude_B...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 11_Orgelbuechlein_Vater_unser_im_Himmelreich_Chorale_Prelude_BWV_636_Our_Father_...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 12_Toccata_Adagio_und_Fuge_in_C_major_BWV_564_Toccata.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 13_Toccata_Adagio_und_Fuge_in_C_major_BWV_564_Adagio.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 14_Toccata_Adagio_und_Fuge_in_C_major_BWV_564_Fuge.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+
+📁 ALBUM DIRECTORY: D:/Audite\Liszt_The_Organ_Composer\Liszt_The_Organ_Composer\flac_96000_24_2ch
+------------------------------------------------------------------------------------------------
+  📄 Track: 01_01_Prelude_and_Fugue_on_the_name_B_A_C_H_S_260_I_Prelude.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_02_Prelude_and_Fugue_on_the_name_B_A_C_H_S_260_II_Fugue_Andante_.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_03_Prelude_and_Fugue_on_the_name_B_A_C_H_S_260_III_Fugue_Allegro_.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_04_Prelude_and_Fugue_on_the_name_B_A_C_H_S_260_IV_Fugue_Maestoso_.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_05_Fantasia_and_Fugue_on_the_choral_Ad_nos_ad_salutarem_undam_S_259_I_Moderat...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_06_Fantasia_and_Fugue_on_the_choral_Ad_nos_ad_salutarem_undam_S_259_II_Animan...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_07_Fantasia_and_Fugue_on_the_choral_Ad_nos_ad_salutarem_undam_S_259_III_Vivac...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_08_Fantasia_and_Fugue_on_the_choral_Ad_nos_ad_salutarem_undam_S_259_IV_Recita...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_09_Fantasia_and_Fugue_on_the_choral_Ad_nos_ad_salutarem_undam_S_259_V_Adagio.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_10_Fantasia_and_Fugue_on_the_choral_Ad_nos_ad_salutarem_undam_S_259_VI_Un_poc...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'title'] Flat conversion: 'Fantasia and Fugue on the choral "Ad nos, ad salutarem undam", S. 259, VI. Un poco più di moto' -> 'Fantasia and Fugue on the choral "Ad nos, ad salutarem undam", S. 259, VI. Un poco piu di moto'
+  📄 Track: 01_11_Fantasia_and_Fugue_on_the_choral_Ad_nos_ad_salutarem_undam_S_259_VII_Adagi...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_12_Fantasia_and_Fugue_on_the_choral_Ad_nos_ad_salutarem_undam_S_259_VIII_Alle...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_13_Fantasia_and_Fugue_on_the_choral_Ad_nos_ad_salutarem_undam_S_259_IX_Fuga_A...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_14_Fantasia_and_Fugue_on_the_choral_Ad_nos_ad_salutarem_undam_S_259_X_Allegro...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_15_Fantasia_and_Fugue_on_the_choral_Ad_nos_ad_salutarem_undam_S_259_XI_Vivace...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 01_16_Fantasia_and_Fugue_on_the_choral_Ad_nos_ad_salutarem_undam_S_259_XII_Piu_m...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'title'] Flat conversion: 'Fantasia and Fugue on the choral "Ad nos, ad salutarem undam", S. 259, XII. Più mosso' -> 'Fantasia and Fugue on the choral "Ad nos, ad salutarem undam", S. 259, XII. Piu mosso'
+  📄 Track: 01_17_Fantasia_and_Fugue_on_the_choral_Ad_nos_ad_salutarem_undam_S_259_XIII_Chor...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_01_Totentanz_Paraphrase_on_the_Dies_Irae_S_126_I_Andante_Presto.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_02_Totentanz_Paraphrase_on_the_Dies_Irae_S_126_II_Allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_03_Totentanz_Paraphrase_on_the_Dies_Irae_S_126_III_Allegro_moderato.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_04_Totentanz_Paraphrase_on_the_Dies_Irae_S_126_IV_Variation_1.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_05_Totentanz_Paraphrase_on_the_Dies_Irae_S_126_V_Variation_2.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_06_Totentanz_Paraphrase_on_the_Dies_Irae_S_126_VI_Variation_3.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_07_Totentanz_Paraphrase_on_the_Dies_Irae_S_126_VII_Variation_4.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_08_Totentanz_Paraphrase_on_the_Dies_Irae_S_126_VIII_Variation_5.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_09_Totentanz_Paraphrase_on_the_Dies_Irae_S_126_IX_Cadenza.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_10_Totentanz_Paraphrase_on_the_Dies_Irae_S_126_X_Sempre_allegro_ma_non_troppo.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_11_Totentanz_Paraphrase_on_the_Dies_Irae_S_126_XI_Allegretto_scherzando.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_12_Totentanz_Paraphrase_on_the_Dies_Irae_S_126_XII_Allegro_animato.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_13_Weinen_Klagen_Sorgen_Zagen_Prelude_after_J_S_Bach_S_179_I_Lento.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_14_Weinen_Klagen_Sorgen_Zagen_Prelude_after_J_S_Bach_S_179_II_Poco_a_poco_acc...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_15_Weinen_Klagen_Sorgen_Zagen_Prelude_after_J_S_Bach_S_179_III_Quasi_allegro.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_16_Weinen_Klagen_Sorgen_Zagen_Prelude_after_J_S_Bach_S_179_IV_Recitativo_Lent...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_17_Weinen_Klagen_Sorgen_Zagen_Prelude_after_J_S_Bach_S_179_V_Quasi_andante.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_18_Weinen_Klagen_Sorgen_Zagen_Prelude_after_J_S_Bach_S_179_VI_Choral_Lento_.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 03_01_Prelude_Op_28_4_S_662.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'title'] Flat conversion: 'Prélude, Op. 28/4, S. 662' -> 'Prelude, Op. 28/4, S. 662'
+     [Meta Tag 'composer'] Flat conversion: 'Frédéric Chopin' -> 'Frederic Chopin'
+
+📁 ALBUM DIRECTORY: D:/Audite\Signals_from_Heaven\Signals_from_Heaven\flac_96000_24_2ch
+--------------------------------------------------------------------------------------
+  📄 Track: 01_L_Orfeo_SV_318_Toccata.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 02_Sacrae_Symphoniae_Sonata_Pian_e_Forte_Ch_175.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 03_Porgy_and_Bess_Summertime.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 04_Sacrae_Symphoniae_Canzon_per_sonar_primi_toni_a_8_Ch_170.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 05_Sometimes_I_feel_like_a_motherless_child.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 06_Signals_from_Heaven_Two_Antiphonal_Fanfares_I_Day_Signal.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Tōru Takemitsu' -> 'Toru Takemitsu'
+  📄 Track: 07_Signals_from_Heaven_Two_Antiphonal_Fanfares_II_Night_Signal.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Tōru Takemitsu' -> 'Toru Takemitsu'
+  📄 Track: 08_Sacrae_Symphoniae_Canzon_per_sonar_noni_toni_a_8_Ch_173.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 09_Nobody_knows_the_trouble_Ive_seen.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 10_Sacrae_Symphoniae_Canzon_per_sonar_septimi_toni_a_8_Ch_172.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 11_Sacred_Concert_No_1_Come_Sunday.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 12_Canzoni_per_sonare_con_ogni_sorte_di_stromenti_No_1_Canzon_I_La_Spiritata_Ch_...flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 13_Swing_Low.flac
+     [Meta] Removed tracking tag: encoder
+     [Meta] Removed tracking tag: copyright
+
+📁 ALBUM DIRECTORY: D:/CDs\Beethoven- The Symphonies [Disc 3]
+------------------------------------------------------------
+  📄 Track: 01 Beethoven- Symphony #4 In B Flat Major, Op. 60 - 1. Adagio - Allegro Vivace.flac
+  📄 Track: 02 Beethoven- Symphony #4 In B Flat Major, Op. 60 - 2. Adagio.flac
+  📄 Track: 03 Beethoven- Symphony #4 In B Flat Major, Op. 60 - 3. Allegro Vivace - Trio- Un poco meno mosso.flac
+  📄 Track: 04 Beethoven- Symphony #4 In B Flat Major, Op. 60 - 4. Allegro Ma Non Troppo.flac
+  📄 Track: 05 Beethoven- Symphony #5 In C Minor, Op. 67 - 1. Allegro Con Brio.flac
+  📄 Track: 06 Beethoven- Symphony #5 In C Minor, Op. 67 - 2. Andante Con Moto.flac
+  📄 Track: 07 Beethoven- Symphony #5 In C Minor, Op. 67 - 3. Allegro.flac
+  📄 Track: 08 Beethoven- Symphony #5 In C Minor, Op. 67 - 4. Allegro.flac
+
+📁 ALBUM DIRECTORY: D:/MP3s\Anita Rachvelishvili\Anita
+-----------------------------------------------------
+  📄 Track: 01 - Carmen, WD 31_ Act I_ Près des ramparts de Seville (_Seguidilla_).mp3
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'title'] Flat conversion: 'Carmen, WD 31: Act I: Près des ramparts de Seville ("Seguidilla")' -> 'Carmen, WD 31: Act I: Pres des ramparts de Seville ("Seguidilla")'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 01 - Carmen, WD 31_ Act I_ Près des ramparts de Seville (_Seguidilla_).mp3
+     ↳ After:  01 - Carmen, WD 31_ Act I_ Pres des ramparts de Seville (_Seguidilla_).mp3
+  📄 Track: 02 - Samson et Dalila, Op. 47, Act I_ Printemps qui commence.mp3
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Camille Saint-Saëns' -> 'Camille Saint-Saens'
+  📄 Track: 03 - Il Trovatore, Act II_ Condotta ell'era in ceppi.mp3
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 04 - Don Carlo, Act II_ Nei giardin del bello (Canzone del velo).mp3
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 05 - Werther, Act III_ Je vous écris de ma petite chambre (_Letter Aria_).mp3
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'title'] Flat conversion: 'Werther, Act III: Je vous écris de ma petite chambre ("Letter Aria")' -> 'Werther, Act III: Je vous ecris de ma petite chambre ("Letter Aria")'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 05 - Werther, Act III_ Je vous écris de ma petite chambre (_Letter Aria_).mp3
+     ↳ After:  05 - Werther, Act III_ Je vous ecris de ma petite chambre (_Letter Aria_).mp3
+  📄 Track: 06 - The Legend of Shota Rustaveli_ Cavatina of King Tamar.mp3
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 07 - Samson et Dalila, Op. 47, Act II_ Mon coeur s'ouvre à ta voix.mp3
+     [Meta] Removed tracking tag: copyright
+     [Meta Tag 'composer'] Flat conversion: 'Camille Saint-Saëns' -> 'Camille Saint-Saens'
+     [Meta Tag 'title'] Flat conversion: 'Samson et Dalila, Op. 47, Act II: Mon coeur s'ouvre à ta voix' -> 'Samson et Dalila, Op. 47, Act II: Mon coeur s'ouvre a ta voix'
+     [Rename Target] Cleaned name layout:
+     ↳ Before: 07 - Samson et Dalila, Op. 47, Act II_ Mon coeur s'ouvre à ta voix.mp3
+     ↳ After:  07 - Samson et Dalila, Op. 47, Act II_ Mon coeur s'ouvre a ta voix.mp3
+  📄 Track: 08 - The Tsar's Bride, Act I_ You Will Pay (_Lyubasha's Aria_).mp3
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 09 - Carmen, WD 31_ Act I_ L'amour est un oiseau rebelle (_Habanera_).mp3
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 10 - Cavalleria rusticana_ Voi lo sapete, o mamma.mp3
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 11 - Sapho, Act III_ O ma lyre immortelle.mp3
+     [Meta] Removed tracking tag: copyright
+  📄 Track: 12 - Don Carlo, Act IV_ O don fatale.mp3
+     [Meta] Removed tracking tag: copyright
+
+=== Processing Complete! ===
+
