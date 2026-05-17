@@ -32,7 +32,7 @@ class MusicScrubberApp:
 
     def setup_ui(self):
         # --- Folder Selection ---
-        folder_frame = tk.LabelFrame(self.root, text=" 1. Select Music Folder ", padding=10)
+        folder_frame = ttk.LabelFrame(self.root, text=" 1. Select Music Folder ", padding=10)
         folder_frame.pack(fill="x", padx=15, pady=10)
 
         tk.Entry(folder_frame, textvariable=self.selected_folder, width=50).pack(side="left", expand=True, fill="x", padx=(0, 10))
