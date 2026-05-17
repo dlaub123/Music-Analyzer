@@ -1,6 +1,15 @@
 import os
+
+#import tkinter as tk
+#from tkinter import filedialog, messagebox, ttk
+
 import tkinter as tk
-from tkinter import filedialog, messagebox, ttk
+from tkinter import ttk
+from tkinter import messagebox, filedialog
+
+ttk.BooleanVar = tk.BooleanVar
+ttk.StringVar = tk.StringVar
+
 from mutagen.easyid3 import EasyID3
 from mutagen.mp3 import MP3
 from mutagen.flac import FLAC
@@ -32,7 +41,7 @@ class MusicScrubberApp:
 
     def setup_ui(self):
         # --- Folder Selection ---
-        folder_frame = ttk.LabelFrame(self.root, text=" 1. Select Music Folder ", padding=10)
+        folder_frame = tk.LabelFrame(self.root, text=" 1. Select Music Folder ", padx=10, pady=10)
         folder_frame.pack(fill="x", padx=15, pady=10)
 
         tk.Entry(folder_frame, textvariable=self.selected_folder, width=50).pack(side="left", expand=True, fill="x", padx=(0, 10))
@@ -43,7 +52,7 @@ class MusicScrubberApp:
         options_frame.pack(fill="both", expand=True, padx=15, pady=5)
 
         # Metadata Options
-        meta_frame = tk.LabelFrame(options_frame, text=" 2. Metadata Scrubbing (Wipe Fields) ", padding=10)
+        meta_frame = tk.LabelFrame(options_frame, text=" 2. Metadata Scrubbing (Wipe Fields) ", padx=10, pady=10)
         meta_frame.pack(side="left", fill="both", expand=True, padx=(0, 5))
         
         tk.Checkbutton(meta_frame, text="Wipe Title", variable=self.clean_title).pack(anchor="w", pady=2)
@@ -52,7 +61,7 @@ class MusicScrubberApp:
         tk.Checkbutton(meta_frame, text="Wipe Genre/Others", variable=self.clean_genre).pack(anchor="w", pady=2)
 
         # Filename Options
-        file_frame = tk.LabelFrame(options_frame, text=" 3. Filename Cleaning ", padding=10)
+        file_frame = tk.LabelFrame(options_frame, text=" 3. Filename Cleaning ", padx=10, pady=10)
         file_frame.pack(side="right", fill="both", expand=True, padx=(5, 0))
 
         tk.Checkbutton(file_frame, text="Replace Spaces with Under_scores", variable=self.replace_spaces).pack(anchor="w", pady=2)
@@ -60,7 +69,7 @@ class MusicScrubberApp:
         tk.Checkbutton(file_frame, text="Remove Special Characters", variable=self.remove_special).pack(anchor="w", pady=2)
 
         # --- Execution & Mode Controls ---
-        control_frame = tk.LabelFrame(self.root, text=" 4. Mode & Execution ", padding=10)
+        control_frame = tk.LabelFrame(self.root, text=" 4. Mode & Execution ", padx=10, pady=10)
         control_frame.pack(fill="x", padx=15, pady=15)
 
         # Safe Mode Toggle Configuration
@@ -79,7 +88,7 @@ class MusicScrubberApp:
         self.safe_mode_label.pack(anchor="w", pady=(0, 5))
 
         # Run Button
-        self.run_btn = tk.Button(control_frame, text="RUN SCRUBBER", bg="#4CAF50", fg="white", font=("Arial", 11, "bold"), padding=5, command=self.process_files)
+        self.run_btn = tk.Button(control_frame, text="RUN SCRUBBER", bg="#4CAF50", fg="white", font=("Arial", 11, "bold"), padx=5, pady=5, command=self.process_files)
         self.run_btn.pack(fill="x", pady=5)
 
     def browse_folder(self):
