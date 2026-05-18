@@ -173,7 +173,7 @@ class MusicScrubberApp:
                                 if cleaned_vals != original_vals:
                                     audio[tag] = cleaned_vals
                                     modified_tags = True
-                                    log_entries.append(f"     [Meta Tag '{tag}'] Flat conversion: '{''.join(original_vals)}' -> '{''.join(cleaned_vals)}'")
+                                    log_entries.append(f"     [Meta Tag '{tag}'] Flatten conversion: '{''.join(original_vals)}' -> '{''.join(cleaned_vals)}'")
                                 
                         if modified_tags:
                             for entry in log_entries:
@@ -198,7 +198,7 @@ class MusicScrubberApp:
                                 if cleaned_vals != original_vals:
                                     audio[tag] = cleaned_vals
                                     modified_tags = True
-                                    log_entries.append(f"     [Meta Tag '{tag}'] Flat conversion: '{''.join(original_vals)}' -> '{''.join(cleaned_vals)}'")
+                                    log_entries.append(f"     [Meta Tag '{tag}'] Flatten conversion: '{''.join(original_vals)}' -> '{''.join(cleaned_vals)}'")
                                 
                         if modified_tags:
                             for entry in log_entries:
