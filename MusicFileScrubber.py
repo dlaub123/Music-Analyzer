@@ -126,6 +126,25 @@ class MusicScrubberApp:
         else:
             self.log_message("=== LIVE RUN STARTED ===\n", 'change_alert')
 
+        metadata_optimization_state_scrub = "ENABLED" if self.clean_garbage_tags.get() else "DISABLED"
+        metadata_optimization_state_flatten = "ENABLED" if self.flatten_metadata_accents.get() else "DISABLED"
+        filename_cleaning_state_umlaut = "ENABLED" if self.clean_filename_accents.get() else "DISABLED"
+        filename_cleaning_state_space = "ENABLED" if self.replace_spaces_with_underscores.get() else "DISABLED"
+
+        log_header = (
+            "========================================================================\n"
+            "                       MUSIC FILE SCRUBBER RUN LOG                      \n"
+            "========================================================================\n"
+            f"SETTINGS CONFIGURATION:\n"
+            f"  [1] Metadata Optimization - Scrub:    {metadata_optimization_state_scrub}\n"
+            f"  [2] Metadata Optimization - Flatten:  {metadata_optimization_state_flatten}\n"
+            f"  [3] Filename Cleaning - Umlauts:      {filename_cleaning_state_umlaut}\n"
+            f"  [4] Filename Cleaning - Spaces:       {filename_cleaning_state_space}\n"
+            "========================================================================\n"
+        )
+
+        self.log_message(log_header)
+
         do_garbage_scrub = self.clean_garbage_tags.get()
         do_meta_flatten = self.flatten_metadata_accents.get()
         do_file_flatten = self.clean_filename_accents.get()
