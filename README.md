@@ -39,10 +39,6 @@ Clone the repository and run the script directly from the root folder:
   - cd Music-Analyzer
   - python MusicFileScrubber.py
 
-## ☕ Support the Project
-
-If this utility helped clean up your music library or saved you hours of manual tagging, consider supporting ongoing development:
-
 ## 📦 Installation
 
 Clone the repository and run the script directly from the root folder:
