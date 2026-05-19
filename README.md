@@ -43,19 +43,15 @@ Clone the repository and run the script directly from the root folder:
 
 Clone the repository and run the script directly from the root folder:
 
-  git clone https://github.com/dlaub123/Music-Analyzer.git
-  cd Music-Analyzer
-  python MusicFileScrubber.py
+  - git clone https://github.com/dlaub123/Music-Analyzer.git
+  - cd Music-Analyzer
+  - python MusicFileScrubber.py
 
 ## ☕ Support the Project
 
 If this utility helped clean up your music library or saved you hours of manual tagging, consider supporting ongoing development:
 
 [Support me on Ko-fi](https://ko-fi.com/yourusername)
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📝 License
 
