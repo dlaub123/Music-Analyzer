@@ -7,11 +7,11 @@ A single file python GUI utility that cleans up music files so they're not skipp
 Music File Scrubber
 - A lightweight, single-file Python utility designed to clean, standardize, and scrub audio file metadata and filenames for a pristine, seamless local media library. Tested and verified for compatibility with Volumio gapless playback servers.
 - Features
-Metadata Cleansing: Strips problematic, corrupt, or non-standard tags that cause indexing issues in local music players.
-Smart Filename Renaming: Standardizes file naming conventions for clean sorting without breaking album structures.
-Dry-Run Safety: Features a robust "Safe Mode" allowing you to verify exactly what changes will be made before a single file is altered on disk.
-Volumio Optimized: Guaranteed not to interrupt gapless playback sequences or trigger library scanning exceptions.
-- Quick Start
+  - Metadata Cleansing: Strips problematic, corrupt, or non-standard tags that cause indexing issues in local music players.
+  - Smart Filename Renaming: Standardizes file naming conventions for clean sorting without breaking album structures.
+  - Dry-Run Safety: Features a robust "Safe Mode" allowing you to verify exactly what changes will be made before a single file is altered on disk.
+  - Volumio Tested: In extensive testing has not interrupted gapless playback sequences or triggered library scanning exceptions.
+  - Quick Start
 - Prerequisites
 Python 3.10 or higher
 - Installation & Run
