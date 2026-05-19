@@ -1,4 +1,4 @@
-# Project Title
+# Music File Scrubber
 
 A brief, one-sentence description of what this project does and who it's for.
 
