@@ -1,6 +1,6 @@
 # Music File Scrubber
 
-A single file python GUI utility that cleans up music files so they're not skipped/ignored, play in the correct order and display properly with track # and title when copied from one OS to another.
+A utility that cleans up music files so they're not skipped/ignored, play in the correct order and display properly with track # and title when copied from one OS to another.
 
 ## 🚀 Features
 
