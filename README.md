@@ -26,11 +26,8 @@ Safe Mode: The initial dry-run assessment that generates a non-destructive previ
 - Processing Log (Commit mode): xxx
 
 - Many modern media players, especially audiophile-focused gapless playback systems like Volumio, rely on pristine file integrity to map out audio buffers. Behind the scenes, various music ripping tools, download stores, and editing software inject non-standard metadata, hidden padding blocks, or corrupt ID3 frames into audio headers.
-Leaving these unscrubbed causes subtle but frustrating issues:
-Broken Gapless Playback: Hidden metadata chunks can confuse the audio decoder at the exact millisecond a track finishes, introducing a tiny pop, click, or a brief gap in live or concept albums.
-Library Indexing Crashes: Corrupt or overly large cover art tags, invalid character encodings, and legacy metadata blocks can throw unhandled exceptions during background library scans, causing tracks or entire albums to completely vanish from your player's user interface.
-Bloated Network Streams: Extraneous tag data unnecessarily inflates file header sizes, adding latency when streaming high-resolution audio over local Wi-Fi networks to your player.
-This utility strips away that hidden digital "friction", leaving only the pure audio stream and the essential, standardized tags your player needs.
+- 
+- This utility strips away that hidden digital "friction", leaving only the pure audio stream and the essential, standardized tags your player needs.
 
 ## 🛠️ Tech Stack
 Python 3.10 or higher
@@ -38,8 +35,6 @@ Python 3.10 or higher
 ## 📦 Installation
 
 Clone the repository and run the script directly from the root folder:
-git clone https://github.com/dlaub123/Music-Analyzer.git
-
-cd music-file-scrubber
-
-python MusicFileScrubber.py
+- git clone https://github.com/dlaub123/Music-Analyzer.git
+- cd music-file-scrubber
+- python MusicFileScrubber.py
