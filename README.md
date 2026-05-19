@@ -15,10 +15,6 @@ Music File Scrubber
 - Prerequisites
 Python 3.10 or higher
 - Installation & Run
-Clone the repository and run the script directly from the root folder:
-git clone https://github.com/yourusername/music-file-scrubber.git
-cd music-file-scrubber
-python main.py
 
 - Real-World Example (32GB USB Drive Run)
 To see exactly how the script behaves under pressure, check out the included sample_run_log.txt.
@@ -26,8 +22,8 @@ This log shows a real execution against a 32GB music library running in both mod
 Safe Mode: The initial dry-run assessment that generates a non-destructive preview of changes.
 "Commit" Mode: The actual execution where the files are safely updated on disk based on the verified logs.
 - Support the Project
-- If this utility helped clean up your music library or saved you hours of manual tagging, consider supporting ongoing development:
-Buy Me A Coffee
+  - If this utility helped clean up your music library or saved you hours of manual tagging, consider supporting ongoing development:
+  Buy Me A Coffee
 - License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -44,6 +40,7 @@ This utility strips away that hidden digital "friction", leaving only the pure a
 
 Get the project up and running locally on your machine.
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+Clone the repository and run the script directly from the root folder:
+git clone https://github.com/yourusername/music-file-scrubber.git
+cd music-file-scrubber
+python main.py
