@@ -33,19 +33,11 @@ This utility strips away that hidden digital "friction", leaving only the pure a
 
 ## 📦 Installation
 
-Clone the repository and run the script directly from the root folder:
+Clone the repository and run the script directly from the root folder: VENV for Mutagen lib dep!!!
 
   - git clone https://github.com/dlaub123/Music-Analyzer.git
   - cd Music-Analyzer
-  - python MusicFileScrubber.py
-
-## 📦 Installation
-
-Clone the repository and run the script directly from the root folder:
-
-  - git clone https://github.com/dlaub123/Music-Analyzer.git
-  - cd Music-Analyzer
-  - python MusicFileScrubber.py
+  - python3 MusicFileScrubber.py
 
 ## ☕ Support the Project
 
