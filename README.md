@@ -39,7 +39,7 @@ Clone the repository and run the script directly from the root folder: VENV for 
 
   - git clone https://github.com/dlaub123/Music-Analyzer.git
   - cd Music-Analyzer
-  - python3 MusicFileScrubber.py
+  - python3 MusicFileScrubber.py  ??? PyInstall needed for dependencies
 
 ## ☕ Support the Project
 
