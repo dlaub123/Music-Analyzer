@@ -1,10 +1,10 @@
 # Music File Scrubber
 
-A brief, one-sentence description of what this project does and who it's for.
+A single file python utility that cleans up music files so they're not skipped/ignored, play in the correct order and display properly with track # and title when copied from one OS to another.
 
 ## 🚀 Features
 
-- **Why Scrubbing Hidden Tags Matters
+- Why Scrubbing Hidden Tags Matters
 Many modern media players, especially audiophile-focused gapless playback systems like Volumio, rely on pristine file integrity to map out audio buffers. Behind the scenes, various music ripping tools, download stores, and editing software inject non-standard metadata, hidden padding blocks, or corrupt ID3 frames into audio headers.
 Leaving these unscrubbed causes subtle but frustrating issues:
 Broken Gapless Playback: Hidden metadata chunks can confuse the audio decoder at the exact millisecond a track finishes, introducing a tiny pop, click, or a brief gap in live or concept albums.
