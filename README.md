@@ -30,6 +30,8 @@ This utility strips away that hidden digital "friction", leaving only the pure a
 ## 🛠️ Tech Stack
 
 * Python 3.10 or higher
+* Tkinter library for GUI
+* Mutagen library for changing metadata tags
 
 ## 📦 Installation
 
