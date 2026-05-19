@@ -21,6 +21,9 @@ Safe Mode: The initial dry-run assessment that generates a non-destructive previ
   - If this utility helped clean up your music library or saved you hours of manual tagging, consider supporting ongoing development:
   Buy Me A Coffee
 - License: This project is licensed under the MIT License - see the LICENSE file for details.
+- Screenshot of GUI: xxx
+- Processing Log (Safe Mode): xxx
+- Processing Log (Commit mode): xxx
 
 - Many modern media players, especially audiophile-focused gapless playback systems like Volumio, rely on pristine file integrity to map out audio buffers. Behind the scenes, various music ripping tools, download stores, and editing software inject non-standard metadata, hidden padding blocks, or corrupt ID3 frames into audio headers.
 Leaving these unscrubbed causes subtle but frustrating issues:
@@ -31,9 +34,12 @@ This utility strips away that hidden digital "friction", leaving only the pure a
 
 ## 🛠️ Tech Stack
 Python 3.10 or higher
+
 ## 📦 Installation
 
 Clone the repository and run the script directly from the root folder:
-git clone https://github.com/yourusername/music-file-scrubber.git
+git clone https://github.com/dlaub123/Music-Analyzer.git
+
 cd music-file-scrubber
-python main.py
+
+python MusicFileScrubber.py
