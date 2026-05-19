@@ -11,22 +11,21 @@ A lightweight, single-file Python utility designed to clean, standardize, and sc
 * **Dry-Run Safety:** Features a robust "Safe Mode" allowing you to verify exactly what changes will be made before a single file is altered on disk.
 * **Volumio Tested:** In extensive testing has not interrupted gapless playback sequences or triggered library scanning exceptions.
 
-### 📊 Real-World Example (32GB USB Drive Run)
+## 📊 Real-World Example (32GB USB Drive Run)
+
 To see exactly how the script behaves under pressure, check out the execution logs:
 * [Processing Log (Safe Mode)](ProcessingLogSafeMode.txt) - The initial dry-run assessment that generates a non-destructive preview of changes.
 * [Processing Log (Commit Mode)](ProcessingLogChangeMode.txt) - The actual execution where the files are safely updated on disk based on the verified logs.
 
-### 🖼️ Interface Preview
+## 🖼️ Interface Preview
+
 ![Music File Scrubber GUI](Screenshot%202026-05-17%20173638.png)
 
----
+## 🔍 Why This Matters
 
-### 🔍 Why This Matters
 Many modern media players, especially audiophile-focused gapless playback systems like Volumio, rely on pristine file integrity to map out audio buffers. Behind the scenes, various music ripping tools, download stores, and editing software inject non-standard metadata, hidden padding blocks, or corrupt ID3 frames into audio headers.
 
 This utility strips away that hidden digital "friction", leaving only the pure audio stream and the essential, standardized tags your player needs.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -36,8 +35,10 @@ This utility strips away that hidden digital "friction", leaving only the pure a
 
 Clone the repository and run the script directly from the root folder:
 
-```bash
-git clone [https://github.com/dlaub123/Music-Analyzer.git](https://github.com/dlaub123/Music-Analyzer.git)
-cd Music-Analyzer
-python MusicFileScrubber.py
+  git clone https://github.com/dlaub123/Music-Analyzer.git
+  cd Music-Analyzer
+  python MusicFileScrubber.py
 
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
