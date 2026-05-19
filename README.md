@@ -20,8 +20,7 @@ Safe Mode: The initial dry-run assessment that generates a non-destructive previ
 - Support the Project
   - If this utility helped clean up your music library or saved you hours of manual tagging, consider supporting ongoing development:
   Buy Me A Coffee
-- License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- License: This project is licensed under the MIT License - see the LICENSE file for details.
 
 - Many modern media players, especially audiophile-focused gapless playback systems like Volumio, rely on pristine file integrity to map out audio buffers. Behind the scenes, various music ripping tools, download stores, and editing software inject non-standard metadata, hidden padding blocks, or corrupt ID3 frames into audio headers.
 Leaving these unscrubbed causes subtle but frustrating issues:
