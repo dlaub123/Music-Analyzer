@@ -34,5 +34,5 @@ Python 3.10 or higher
 
 Clone the repository and run the script directly from the root folder:
 - git clone https://github.com/dlaub123/Music-Analyzer.git
-- cd music-file-scrubber
+- cd xxx
 - python MusicFileScrubber.py
