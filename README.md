@@ -11,10 +11,6 @@ Music File Scrubber
   - Smart Filename Renaming: Standardizes file naming conventions for clean sorting without breaking album structures.
   - Dry-Run Safety: Features a robust "Safe Mode" allowing you to verify exactly what changes will be made before a single file is altered on disk.
   - Volumio Tested: In extensive testing has not interrupted gapless playback sequences or triggered library scanning exceptions.
-  - Quick Start
-- Prerequisites
-Python 3.10 or higher
-- Installation & Run
 
 - Real-World Example (32GB USB Drive Run)
 To see exactly how the script behaves under pressure, check out the included sample_run_log.txt.
@@ -35,10 +31,8 @@ Bloated Network Streams: Extraneous tag data unnecessarily inflates file header 
 This utility strips away that hidden digital "friction", leaving only the pure audio stream and the essential, standardized tags your player needs.
 
 ## 🛠️ Tech Stack
-
+Python 3.10 or higher
 ## 📦 Installation
-
-Get the project up and running locally on your machine.
 
 Clone the repository and run the script directly from the root folder:
 git clone https://github.com/yourusername/music-file-scrubber.git
