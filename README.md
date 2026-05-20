@@ -47,10 +47,28 @@ If you want to modify the source code or build the executable yourself use the f
 - `tkinter` (Standard GUI library)
 - `mutagen` (Audio metadata tagging framework)
 
-### Local Development Setup
+## Prerequisites
+
+If you are starting from scratch, you will need Python installed on your system. 
+
+1. **Install Python:** Download it from [python.org](https://www.python.org/downloads/) or your system's package manager.
+2. **Ensure `pip` is installed:** Pip is Python's package manager. It usually comes with Python, but you can verify by running:
+   `pip --version` (or `pip3 --version` on Linux/Mac)
+
+## Linux Mint / Ubuntu-Based Setup
+
+If you are running Linux Mint, Ubuntu, or a similar Debian-based distribution, you need to install the underlying UI framework (`tkinter`) at the system level before building the app. If you skip this, the script might run, but the executable will crash with a `ModuleNotFoundError`.
+
+Run this in your terminal:
+`sudo apt-get install python3-tk`
+
+*(Note: You may also need to install pip directly if your distro didn't include it: `sudo apt install python3-pip`)*
+
+## Building the Executable
+
 ```bash
 # Clone the repository
-git clone [https://github.com/dlaub123/Music-Analyzer.git](https://github.com/dlaub123/Music-Analyzer.git)
+git clone https://github.com/dlaub123/Music-Analyzer.git
 cd Music-Analyzer
 
 # Install required dependencies locally
