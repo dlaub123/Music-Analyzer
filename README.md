@@ -64,7 +64,8 @@ python -m PyInstaller --clean --onefile MusicFileScrubber.py
 
 If this utility helped clean up your music library or saved you hours of manual tagging, consider supporting ongoing development:
 
-[Support me on Ko-fi](https://ko-fi.com/dmlsoftare) [or Paypal](https:/www.paypal.me/dmlaub123)
+* **[Support me on Ko-fi](https://ko-fi.com/dmlsoftare)**
+* **[Support me on PayPal](https://www.paypal.me/dmlaub123)**
 
 ## 📝 License
 
