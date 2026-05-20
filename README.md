@@ -34,8 +34,8 @@ No Python installation, command line tweaks, or virtual environments required.
 1. Go to the **[Releases](https://github.com/dlaub123/Music-Analyzer/releases)** section on the right side of this page.
 2. Download the latest standalone binary: `MusicFileScrubber.exe`.
 3. Move the executable to a folder of your choice, double-click to launch, and select your music directory!
+4. If Windows displays a "Protected your PC" warning, click "More Info" and then "Run Anyway."
 
-*Note: If Windows displays a "Protected your PC" warning, click "More Info" and then "Run Anyway."*
 ---
 
 ## 🛠️ Tech Stack & Developer Setup for LINUX and Mac
