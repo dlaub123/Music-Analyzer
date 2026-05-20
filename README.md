@@ -35,11 +35,12 @@ No Python installation, command line tweaks, or virtual environments required.
 2. Download the latest standalone binary: `MusicFileScrubber.exe`.
 3. Move the executable to a folder of your choice, double-click to launch, and select your music directory!
 
+*Note: If Windows displays a "Protected your PC" warning, click "More Info" and then "Run Anyway."*
 ---
 
 ## 🛠️ Tech Stack & Developer Setup for LINUX and Mac
 
-If you want to modify the source code or build the executable yourself from scratch, use the following configuration:
+If you want to modify the source code or build the executable yourself use the following configuration:
 
 ### Dependencies
 - Python 3.12
