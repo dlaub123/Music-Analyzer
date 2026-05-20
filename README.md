@@ -55,6 +55,10 @@ cd Music-Analyzer
 # Install required dependencies locally
 pip install mutagen pyinstaller
 
+# Compiling a New Standalone Executable
+To bundle the script into a single standalone binary on Linux or macOS, run the clean compilation command in your local terminal:
+python -m PyInstaller --clean --onefile MusicFileScrubber.py
+
 ## ☕ Support the Project
 
 If this utility helped clean up your music library or saved you hours of manual tagging, consider supporting ongoing development:
