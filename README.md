@@ -1,10 +1,10 @@
 # Music File Scrubber
 
-A utility that cleans up music files so they're not skipped/ignored, play in the correct order and display properly with track # and title when copied from one OS to another.
+A utility that cleans up music files so they're not skipped/ignored when copied from one OS to another.
 
 ## 🚀 Features
 
-A lightweight, single-file Python utility designed to clean, standardize, and scrub audio file metadata and filenames for a pristine, seamless local media library. Tested and verified for compatibility with Volumio gapless playback servers.
+A lightweight, single-file Python utility designed to clean, standardize, and scrub audio file metadata and filenames for a pristinelocal media library. Tested and verified for compatibility with Volumio gapless playback servers.
 
 * **Metadata Cleansing:** Strips problematic, corrupt, or non-standard tags that cause indexing issues in local music players.
 * **Smart Filename Renaming:** Standardizes file naming conventions for clean sorting without breaking album structures.
