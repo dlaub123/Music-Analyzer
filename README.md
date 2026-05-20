@@ -27,7 +27,7 @@ Many modern media players, especially audiophile-focused gapless playback system
 
 This utility strips away that hidden digital "friction", leaving only the pure audio stream and the essential, standardized tags your player needs.
 
-## 📦 How to Run (For End Users)
+## 📦 How to Run (For Windows End Users)
 
 No Python installation, command line tweaks, or virtual environments required. 
 
@@ -37,7 +37,7 @@ No Python installation, command line tweaks, or virtual environments required.
 
 ---
 
-## 🛠️ Tech Stack & Developer Setup
+## 🛠️ Tech Stack & Developer Setup for LINUX and Mac
 
 If you want to modify the source code or build the executable yourself from scratch, use the following configuration:
 
