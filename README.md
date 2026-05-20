@@ -27,19 +27,33 @@ Many modern media players, especially audiophile-focused gapless playback system
 
 This utility strips away that hidden digital "friction", leaving only the pure audio stream and the essential, standardized tags your player needs.
 
-## 🛠️ Tech Stack
+## 📦 How to Run (For End Users)
 
-* Python 3.10 or higher
-* Tkinter library for GUI
-* Mutagen library for changing metadata tags
+No Python installation, command line tweaks, or virtual environments required. 
 
-## 📦 Installation
+1. Go to the **[Releases](https://github.com/dlaub123/Music-Analyzer/releases)** section on the right side of this page.
+2. Download the latest standalone binary: `MusicFileScrubber.exe`.
+3. Move the executable to a folder of your choice, double-click to launch, and select your music directory!
 
-Clone the repository and run the script directly from the root folder: VENV for Mutagen lib dep!!!
+---
 
-  - git clone https://github.com/dlaub123/Music-Analyzer.git
-  - cd Music-Analyzer
-  - python3 MusicFileScrubber.py  ??? PyInstall needed for dependencies
+## 🛠️ Tech Stack & Developer Setup
+
+If you want to modify the source code or build the executable yourself from scratch, use the following configuration:
+
+### Dependencies
+- Python 3.12
+- `tkinter` (Standard GUI library)
+- `mutagen` (Audio metadata tagging framework)
+
+### Local Development Setup
+```bash
+# Clone the repository
+git clone [https://github.com/dlaub123/Music-Analyzer.git](https://github.com/dlaub123/Music-Analyzer.git)
+cd Music-Analyzer
+
+# Install required dependencies locally
+pip install mutagen pyinstaller
 
 ## ☕ Support the Project
 
