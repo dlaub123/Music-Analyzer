@@ -38,7 +38,7 @@ No Python installation, command line tweaks, or virtual environments required.  
 
 ---
 
-## 🛠️ Tech Stack & Developer Setup for LINUX and Mac
+## 🛠️ Tech Stack & Developer Setup for LINUX and Mac (and Windows fans of command line tools)
 
 If you want to modify the source code or build the executable yourself use the following configuration:
 
