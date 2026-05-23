@@ -27,12 +27,12 @@ Many modern media players, especially audiophile-focused gapless playback system
 
 This utility strips away that hidden digital "friction", leaving only the pure audio stream and the essential, standardized tags your player needs.
 
-## 📦 How to Run (For Windows End Users)
+## 📦 How to Run (For Windows & Linux Mint for Intel End Users)
 
-No Python installation, command line tweaks, or virtual environments required. 
+No Python installation, command line tweaks, or virtual environments required.  Simply download the executable. 
 
 1. Go to the **[Releases](https://github.com/dlaub123/Music-Analyzer/releases)** section on the right side of this page.
-2. Download the latest standalone binary: `MusicFileScrubber.exe`.
+2. Download the latest standalone binary: `MusicFileScrubber.exe` for Windows or `MusicFileScrubber` for Linux Mint (note after downloading the Linux mint version you may have to run chmod +x on the executable)
 3. Move the executable to a folder of your choice, double-click to launch, and select your music directory!
 4. If Windows displays a "Protected your PC" warning, click "More Info" and then "Run Anyway."
 
@@ -55,9 +55,9 @@ If you are starting from scratch, you will need Python installed on your system.
 2. **Ensure `pip` is installed:** Pip is Python's package manager. It usually comes with Python, but you can verify by running:
    `pip --version` (or `pip3 --version` on Linux/Mac)
 
-## Linux Mint / Ubuntu-Based Setup
+## Linux Environments e.g. Mint / Ubuntu-Based Setup (For most Linux installs this is pre-installed)
 
-If you are running Linux Mint, Ubuntu, or a similar Debian-based distribution, you need to install the underlying UI framework (`tkinter`) at the system level before building the app. If you skip this, the script might run, but the executable will crash with a `ModuleNotFoundError`.
+If you are running Linux Mint, Ubuntu, or a similar Debian-based distribution, you may need to install the underlying UI framework (`tkinter`) at the system level before building the app. If you skip this, the script might run, but the executable will crash with a `ModuleNotFoundError`.
 
 Run this in your terminal:
 `sudo apt-get install python3-tk`
@@ -71,12 +71,12 @@ Run this in your terminal:
 git clone https://github.com/dlaub123/Music-Analyzer.git
 cd Music-Analyzer
 
-# Install required dependencies locally
+# Install required dependencies locally (For most Linux installs this is pre-installed)
 pip install mutagen pyinstaller
 
 # Compiling a New Standalone Executable
 To bundle the script into a single standalone binary on Linux or macOS, run the clean compilation command in your local terminal:
-python -m PyInstaller --clean --onefile MusicFileScrubber.py
+python3 -m PyInstaller --clean --onefile MusicFileScrubber.py
 ```
 
 ## ☕ Support the Project
