@@ -2,17 +2,100 @@ import os
 import sys
 import tkinter as tk
 from tkinter import messagebox, filedialog
+
 import unicodedata
 from mutagen.flac import FLAC
 from mutagen.easyid3 import EasyID3
 from mutagen.mp3 import MP3
+
+import pykakasi
+import re
+
+def convert_kanji_to_romaji(text: str) -> str:
+    """
+    Converts Japanese text (Kanji, Hiragana, Katakana) to Romaji (Hepburn).
+    Leaves European characters, numbers, and punctuation intact.
+    """
+    if not text:
+        return text
+        
+    # Initialize the pykakasi object
+    kks = pykakasi.kakasi()
+    
+    # kks.convert returns a list of dictionaries mapping the original 
+    # text chunks to various phonetic systems.
+    converted_items = kks.convert(text)
+    
+    # We extract the 'hepburn' romanization, which is the most standard
+    # and readable format for Western alphabets.
+    romaji_string = "".join([item['hepburn'] for item in converted_items])
+    
+    # Optional but recommended: Normalize any awkward spacing that 
+    # sometimes occurs when parsing mixed-language strings.
+    romaji_string = re.sub(r'\s+', ' ', romaji_string).strip()
+    
+    return romaji_string
+
+# --- Example / Quick Test ---
+if __name__ == "__main__":
+    test_strings = [
+        "交響曲第5番",                 # Pure Japanese (Symphony No. 5)
+        "Mahler: 交響曲第1番",         # Mixed English/Japanese
+        "Beethoven Symphony No. 9"    # Pure English
+    ]
+    
+    for s in test_strings:
+        print(f"Original: {s}")
+        print(f"Scrubbed: {convert_kanji_to_romaji(s)}\n")
+
+
+def strip_japanese_characters(text: str) -> str:
+    """
+    Removes all Kanji, Hiragana, and Katakana characters from a string.
+    Leaves English, European characters, numbers, and punctuation alone.
+    """
+    if not text:
+        return text
+        
+    # Unicode ranges for Japanese characters:
+    # \u4e00-\u9faf : CJK Unified Ideographs (Kanji)
+    # \u3040-\u309f : Hiragana
+    # \u30a0-\u30ff : Katakana
+    # \u3000-\u303f : CJK Symbols and Punctuation (like full-width spaces/brackets)
+    # \uff00-\uffef : Half-width and Full-width Forms
+    
+    pattern = r'[\u4e00-\u9faf\u3040-\u309f\u30a0-\u30ff\u3000-\u303f\uff00-\uffef]'
+    
+    # Replace all matches with an empty string
+    stripped_text = re.sub(pattern, '', text)
+    
+    # Clean up any leftover double spaces or awkward trailing spaces 
+    # that might occur after removing the middle of a string
+    stripped_text = re.sub(r'\s+', ' ', stripped_text).strip()
+    
+    return stripped_text
+
+# --- Example / Quick Test ---
+if __name__ == "__main__":
+    test_strings = [
+        "交響曲第5番",                         # Pure Japanese
+        "Mahler: 交響曲第1番 Symphony No 1",   # Mixed 
+        "Tchaikovsky (チャイコフスキー)"       # Mixed with brackets
+    ]
+    
+    for s in test_strings:
+        print(f"Original: {s}")
+        print(f"Scrubbed: '{strip_japanese_characters(s)}'\n")
+
 
 def clean_text(text):
     """Removes accents/umlauts and flattens special characters to root values (e.g., ü -> u)"""
     if not text:
         return ""
     normalized = unicodedata.normalize('NFD', text)
-    return "".join([c for c in normalized if unicodedata.category(c) != 'Mn'])
+    str = "".join([c for c in normalized if unicodedata.category(c) != 'Mn'])
+    str = convert_kanji_to_romaji
+    return str
 
 def safe_open_path(path):
     """Bypasses Windows 260-character path limit (MAX_PATH)"""
