@@ -86,6 +86,8 @@ This utility was partially generated using AI tools. If this utility helped clea
 * **[Support me on Ko-fi](https://ko-fi.com/dmlsoftware)**  (dmlsoftware)
 * **[Support me on PayPal](https://www.paypal.me/dmlaub123)** (dmlaub123)
 
+Note this is not a perfect utility - 1) removing accent marks misspells words but that's far better than having tracks not play at all 2) Kanji characters remain unchanged - if you use FooBar2000 for ripping you can use advanced features in it to Romanize these artis names (like Eiji Oue) - but these advanced Foobar features don't "fix" Cyrillic names (like Rachmaninoff)
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
