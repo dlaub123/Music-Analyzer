@@ -94,7 +94,7 @@ def clean_text(text):
         return ""
     normalized = unicodedata.normalize('NFD', text)
     str = "".join([c for c in normalized if unicodedata.category(c) != 'Mn'])
-    str = convert_kanji_to_romaji
+    str = convert_kanji_to_romaji(str)
     return str
 
 def safe_open_path(path):
